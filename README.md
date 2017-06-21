@@ -1,4 +1,4 @@
-# IGME-110 Introduction to Multimedia, Fall 2017: Syllabus
+# IGME-110 Introduction to Interactive Media, Fall 2017: Syllabus
 
 ## Instructor and Class Details
 - Professor Elizabeth Lawley  
@@ -20,7 +20,7 @@ We will be using Slack, a group communication tool, for announcements, discussio
 MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
-Listening to a lecture is seldom the best way to learn to create things. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
+Listening to a lecture is seldom the best way to learn. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
 
 ## Attendance
 Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz, and missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise. 
