@@ -15,7 +15,7 @@ There is no required textbook for the course, but there will be an assortment of
 
 I will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
 
-We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We'll be discussing both of these tools in week 1. 
+We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
 MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
