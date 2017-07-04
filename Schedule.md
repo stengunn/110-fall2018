@@ -2,7 +2,7 @@
 
 ## Contents
 - [Week 1 (Aug 29/31): Course Overview & Communication](#week1)
-- [Week 2 (Sep 5/7): Research & Critical Analysis](#week2)
+- [Week 2 (Sep 5/7): Research & Critical Assessment](#week2)
 - [Week 3 (Sep 12/14): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 19/21): Basic HTML & CSS](#week4)
 - [Week 5 (Sep 26/28): UNIX, FTP, and Web Publishing](#week5)
@@ -30,7 +30,9 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
  
 - **Thursday Exercise**
 
-## <a name="week2">Week 2</a> (Aug 29/31): Course Overview and Communication
+## <a name="week1">Week 1</a> (Aug 29/31): Course Overview and Communication
+
+## <a name="week2">Week 2</a> (Sep 5/7): Research and Critical Assessment
 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
 
