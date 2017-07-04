@@ -40,11 +40,11 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 
 ## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
 
-## <a name="week7">Week 7</a> (Oct 12): Graphic Design
+## <a name="week7">Week 7</a> (Oct 12): Graphic Design Concepts
 
-## <a name="week8">Week 8</a> (Oct 17/19): Graphic Design
+## <a name="week8">Week 8</a> (Oct 17/19): CSS Box Model & Layout
 
-## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts](#week9)
+## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
 
