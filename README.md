@@ -8,7 +8,7 @@
 - Class meetings: T/TH 8-9:20am in ORN-1370
 
 ## Course Catalog Description 
-This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers along with digital modes of writing including collaborative editing and effective presentation design. 
+This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers, and use digital modes of writing including collaborative editing and effective presentation design. 
 
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
