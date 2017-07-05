@@ -5,6 +5,7 @@
 - Office: GOL-2545
 - Email: Elizabeth.Lawley@rit.edu
 - Office hours: T/Th 10am-12pm 
+- Class Slack: https://lawley-110-2017.slack.com/
 - Class meetings: T/TH 8-9:20am in ORN-1370
 
 ## Course Catalog Description 
@@ -31,13 +32,13 @@ These are brief descriptions of each of the assignments. Follow the links to see
 ### Exercises & Homework (20% of final grade)
 Every Thursday there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to the exercise. Exercises and homework will be always be uploaded to myCourses, with information on their required submission date and time. If a class will have no lecture content, I will inform you of that, and allow you to submit the exercise early instead of attending class. 
 
-### Research Paper (20% of final grade)
+### [Research Paper (20% of final grade)](projects/Paper.md)
 For this paper, you will select a person, event, or technology related to the Internet or media—ideally, one that is important to you. You will write a 5-7 page paper on this topic, and will need to cite a variety of sources—so be sure to select a topic on which you can find sufficient resources. 
 
-### Web Site (20% of final grade)
+### [Web Site (20% of final grade)](projects/WebSite.md)
 You will create a website to present key information you learned while researching your paper topic.  
 
-### Presentation (20% of final grade)
+### [Presentation (20% of final grade)](projects/Presentation.md)
 You will prepare a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a file with an accompanying audio narration. 
 
 ### Quizzes (10% of final grade)
@@ -45,9 +46,8 @@ I will give at least one quiz each week, with content drawn from that week’s r
 
 ### Group Notes  (10% of final grade)
 You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit.
-
 	
-## Course Topics & Schedule
+## [Course Topics & Schedule](Schedule.md)
 The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ## Additional Policies
