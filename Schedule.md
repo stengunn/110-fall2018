@@ -24,7 +24,11 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **Thursday Readings**
+- **[Tuesday Homework](weekly_materials/week1/tuesdayHomework.md)** (due before the start of class on Thursday)
+
+- **<a name="w1-th-readings">Thursday Readings</a>**
+   - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
+   - [Slack Guides: What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-)
    - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
  

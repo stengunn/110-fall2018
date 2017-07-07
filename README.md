@@ -35,10 +35,10 @@ Every Thursday there will be an in-class exercise, which will be due by the end 
 ### [Research Paper (20% of final grade)](projects/Paper.md)
 For this paper, you will select a person, event, or technology related to the Internet or media—ideally, one that is important to you. You will write a 5-7 page paper on this topic, and will need to cite a variety of sources—so be sure to select a topic on which you can find sufficient resources. 
 
-### [Web Site (20% of final grade)](projects/WebSite.md)
+### [Web Site (20% of final grade)](projects/Website.md)
 You will create a website to present key information you learned while researching your paper topic.  
 
-### Presentation (20% of final grade)
+### [Presentation (20% of final grade)](projects/Presentation.md)
 You will prepare a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a file with an accompanying audio narration. 
 
 ### Quizzes (10% of final grade)

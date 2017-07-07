@@ -1,11 +1,11 @@
-# Web Site
+# Website Project
 
 In this assignment, you will create a website in which you provide information about or related to the topic of your paper. It should not simply be a reworking of your paper, but rather a resource or reference site.  
 
 The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 29th. 
 
 ## Requirements
-  - The main page must be located at http&#58;//people.rit.edu/~youruserid/igme110/2017project/
+  - The main page must be located at http&#58;//people.rit.edu/<i>youruserid</i>/igme110/2017project/
   - The main index.html page should include a title with the site topic and a relevant image, as well as your name and a photo of you. 
   - There should be a minimum of three pages linked from the main page: one with an overview of your paper topic, one with a full version of your paper (formatted appropriately for the web), and one with a web-friendly version of your bibliography (including links from each entry to the original source wherever possible). 
   - Each of the linked pages should have a link back to the main page, as well as links to the other content pages.
