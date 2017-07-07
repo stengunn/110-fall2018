@@ -24,7 +24,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](weekly_materials/week1/tuesdayHomework.md)** (due before the start of class on Thursday)
+- **[Tuesday Homework](weekly_materials/week1/setupHomework.md)** (due before the start of class on Thursday)
 
 - **<a name="w1-th-readings">Thursday Readings</a>**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
