@@ -24,7 +24,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](weekly_materials/week1/setupHomework.md)** (due before the start of class on Thursday)
+- **[Tuesday Homework](weekly_materials/week1/commHomework.md)** (due before the start of class on Thursday)
 
 - **<a name="w1-th-readings">Thursday Readings</a>**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
@@ -32,11 +32,21 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
    - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
  
-- **Thursday Exercise**
-
-## <a name="week1">Week 1</a> (Aug 29/31): Course Overview and Communication
+- **[Thursday In-Class Exercise](weekly_materials/week1/commExercise.md)**
 
 ## <a name="week2">Week 2</a> (Sep 5/7): Research and Critical Assessment
+
+- **Tuesday Readings**
+  - [Purdue Online Writing Lab: Argumentative Essays](https://owl.english.purdue.edu/owl/resource/685/05/)
+  - [Hamilton College: Persuasive Essays](https://www.hamilton.edu/academics/centers/writing/writing-resources/persuasive-essays)
+  - [Purdue Online Writing Lab: Annotated Bilbiographies](https://owl.english.purdue.edu/owl/resource/614/01/)
+
+- **Thursday Readings**
+  - [How to Spot Fake News (FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+  - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds (NPR, Nov 2016)](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
+  - [Evaluating Information: The Cornerstone of Civic Online Reasoning](https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf)
+  - [Factitious (game)](http://factitious.augamestudio.com/#/)
+
 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
 
