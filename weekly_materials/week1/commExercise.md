@@ -4,7 +4,7 @@
 
 2) Open the group folder, and from the drop-down menu next to its name at the top of the screen, choose "Add to Drive"
 
-![Add to Drive Screenshot](AddToDrive.png)
+![Add to Drive Screenshot](add2drive.png)
 
 3) Open the Week 01 document and add some notes from today's lecture. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
 
