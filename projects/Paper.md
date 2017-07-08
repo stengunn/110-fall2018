@@ -16,6 +16,11 @@ Be creative, and (despite what you may have been told in high school) don't be a
 
 You must, however, support your opinions and assertions with citations to valid external sources. You should provide the source for any quotations or factual information (even if it's not a quotation) that you include in your paper. Your bibliography must include a *minimum* of eight sources, with at least four of those sources being edited, respected sources (books, journals, magazines, newspapers, well-edited websites). You may not use reference/tertiary sources (such as encyclopedias or dictionaries)--while it's fine to use them for your research, you should check the original sources they draw from, and use those for your citations. When in doubt about a source, ask me! You will also need to provide a brief (no more than one paragraph) annotation for each reference, explaining how it was useful for your paper. 
 
+Here are some resources that may be helpful as you work on your paper: 
+- [Hamilton College: Persuasive Essays](https://www.hamilton.edu/academics/centers/writing/writing-resources/persuasive-essays)
+- [Purdue Online Writing Lab: Argumentative Essays](https://owl.english.purdue.edu/owl/resource/685/05/)
+- [Purdue Online Writing Lab: Annotated Bilbiographies](https://owl.english.purdue.edu/owl/resource/614/01/)
+
 ## Deliverables
 
 ### Topic Idea: Due before midnight on Monday, September 4th

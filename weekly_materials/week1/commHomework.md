@@ -1,9 +1,12 @@
 # Week 1 Tuesday Homework: Communication Basics
 
-Before starting this week's homework, make sure you've done the [readings for Thursday's class](../../Schedule.md#w1-th-readings).
+In this exercise, you'll set up your Slack account and send me your username so that I can add you to a private  channel for your notetaking group.  All tasks must be completed by midnight on Tuesday, 8/29. 
 
-All tasks must be completed before the start of class on Thursday. 
+***Important note:*** *If you already use Slack with another group, you will not be able to use that login for the class Slack. Every Slack team is a separate system, with its own usernames and passwords. You can, however, be logged into multiple Slack teams from the same client.*
 
-1. Use your RIT email account to send a message to me (Elizabeth.Lawley@rit.edu). The email should have the subject line "110 Introduction – Your Name”. The content of the email is up to you. You'll get the same amount of credit with a blank message as you will with a lengthy and detailed introduction telling me about yourself. 
-2. After reading the Slack tutorials, add yourself to the class Slack at http://lawley-110-2017.slack.com. (You will have to use your RIT email for this.) Your username should be your name, in the form FirstLast, FirstL, or FLast (e.g. LizLawley or LizL or LLawley). Add a (recognizable) photo to your Slack profile
-3. In myCourses, modify your profile page to include the same photo you used on your Slack profile. 
+1. Create an account in our class Slack at http://lawley-110-2017.slack.com. (You will have to use your RIT email for this.) [Edit your profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include your first and last name, and a (recognizable) photo of yourself. 
+
+2. In myCourses, modify your profile page to include the same photo you used on your Slack profile. 
+
+3. Use your RIT email account to send a message to me (Elizabeth.Lawley@rit.edu). The email should have the subject line "110 Introduction – Your Name”. At a minimum, the email should tell me what your username is in Slack; you're welcome to provide more of an introduction if you'd like (I always enjoy learning more about my students), but that won't affect your grade. 
+
