@@ -2,13 +2,13 @@
 
 ## Contents
 - [Week 1 (Aug 29/31): Course Overview & Communication](#week1)
-- [Week 2 (Sep 5/7): Research & Critical Analysis](#week2)
+- [Week 2 (Sep 5/7): Research & Critical Assessment](#week2)
 - [Week 3 (Sep 12/14): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 19/21): Basic HTML & CSS](#week4)
 - [Week 5 (Sep 26/28): UNIX, FTP, and Web Publishing](#week5)
 - [Week 6 (Oct 3/5): Typography & CSS](#week6)
-- [Week 7 (Oct 12): Graphic Design](#week7)
-- [Week 8 (Oct 17/19): Graphic Design](#week8)
+- [Week 7 (Oct 12): Graphic Design Concepts](#week7)
+- [Week 8 (Oct 17/19): CSS Box Model & Web Layout](#week8)
 - [Week 9 (Oct 24/26): Digital Image Concepts](#week9)
 - [Week 10 (Oct 31/Nov 2): Digital Image Applications](#week10)
 - [Week 11 (Nov 7/9): Animation Concepts](#week11)
@@ -16,21 +16,40 @@
 - [Week 13 (Nov 21): Presentation Skills](#week13)
 - [Week 14 (Nov 28/30): Digital Video Concepts](#week14)
 - [Week 15 (Dec 5/7): Responsible Social Media Use](#week15)
-- [Finals Week: Makeup Practical Exam](#finals)
+- [Finals Week: Final Presentations](projects/Presentation.md)
 
 ## <a name="week1">Week 1</a> (Aug 29/31): Course Overview & Communication Tools
-On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs. 
+On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
 
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
-  - [Slack Guides: Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
+
+- **[Tuesday Homework](weekly_materials/week1/commHomework.md)**: Set up your Slack account, add a photo to your myCourses account, and send me an email with your Slack username. 
+
+- **<a name="w1-th-readings">Thursday Readings</a>**
+   - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
+   - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) *(Note: In our class Slack, the #general channel has been renamed to #announcements)*
+
+ 
+- **[Thursday In-Class Exercise](weekly_materials/week1/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
+
+## <a name="week2">Week 2</a> (Sep 5/7): Research and Critical Assessment
+
+This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
+
+Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox by midnight on Monday 9/4. 
 
 - **Thursday Readings**
- 
- 
-- **Thursday Exercise**
+  - [How to Spot Fake News (FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+  - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds (NPR, Nov 2016)](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
+  - [Evaluating Information: The Cornerstone of Civic Online Reasoning](https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf)
+  - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe): ***Note: This webcomic is very NSFW, due to strong language. As a result, I am making it an optional reading, and will not be included on Thursday's quiz.***
 
-## <a name="week2">Week 2</a> (Aug 29/31): Course Overview and Communication
+- **Thursday Readings**
+  - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
+
+- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
+
 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
 
@@ -40,11 +59,11 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 
 ## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
 
-## <a name="week7">Week 7</a> (Oct 12): Graphic Design
+## <a name="week7">Week 7</a> (Oct 12): Graphic Design Concepts
 
-## <a name="week8">Week 8</a> (Oct 17/19): Graphic Design
+## <a name="week8">Week 8</a> (Oct 17/19): CSS Box Model & Layout
 
-## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts](#week9)
+## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
 
