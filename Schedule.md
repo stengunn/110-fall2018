@@ -39,11 +39,12 @@ This week we'll be talking about information--how to find it, and how to evaluat
 
 Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox by midnight on Monday 9/4. 
 
-- **Thursday Readings**
-  - [How to Spot Fake News (FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
-  - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds (NPR, Nov 2016)](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
-  - [Evaluating Information: The Cornerstone of Civic Online Reasoning](https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf)
-  - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe): ***Note: This webcomic is very NSFW, due to strong language. As a result, I am making it an optional reading, and will not be included on Thursday's quiz.***
+- **Tuesday Readings**
+  - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+  - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017](https://www.youtube.com/watch?v=1aTApGWVGoI)
+  - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds - NPR, Nov 2016](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
+  - [Evaluating Information: The Cornerstone of Civic Online Reasoning - Stanford University, Nov 2016](https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf)
+  - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe): ***Note: This webcomic is very NSFW, due to strong language. As a result, I am making it an optional reading, and it will not be included on Thursday's quiz.***
 
 - **Thursday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
@@ -52,10 +53,37 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 
 
 ## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
+As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work. 
+
+- **Tuesday Readings**
+  - [Copyright in General](https://www.copyright.gov/help/faq/faq-general.html)
+  - [Hacker Lexicon: What is the DMCA?](https://www.wired.com/2016/06/hacker-lexicon-digital-millennium-copyright-act/)
+  - [Video: A Fair(y) Use Tale](https://www.youtube.com/watch?v=CJn_jC4FNDo) (a captioned version can be found here: https://video.rit.edu/Watch/s2YSe69J)
+  - [Creative Commons: Licensing Considerations](https://creativecommons.org/share-your-work/licensing-considerations/)
+  - [The Legal Side of Open Source](https://opensource.guide/legal/)
+ 
+
+- **Thursday Readings**
+  - [F*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
+  - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
+
 
 ## <a name="week4">Week 4</a> (Sep 19/21): Basic HTML & CSS</a>
 
+This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll talk generally about these technologies, but most of your learning will come from the assigned tutorial.
+
+**[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
+- Complete before Tuesday's class: Introduction and sections 1-2
+- Complete before (or in) Thursday's class: Sections 3-5 (bring headphones to class!)
+- Complete by Saturday morning: Sections 6-7
+
+**[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**
+In order to do the exercises for week 5, you'll need to make sure that your account on RIT's web server is properly configured. Make sure you do this exercise during week 4, so that if there are problems we have time to correct them!
+
+
 ## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
+
+Now that you know how to create web pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
 
 ## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
 
