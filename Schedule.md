@@ -42,7 +42,6 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 - **Tuesday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017](https://www.youtube.com/watch?v=1aTApGWVGoI)
-  - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds - NPR, Nov 2016](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
 - **Tuesday Exercise**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
