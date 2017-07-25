@@ -43,8 +43,9 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [Students Have a 'Dismaying" Inability To Tell Fake News From Real, Study Finds - NPR, Nov 2016](http://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
-  - [Evaluating Information: The Cornerstone of Civic Online Reasoning - Stanford University, Nov 2016](https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf)
-  - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe): ***Note: This webcomic is very NSFW, due to strong language. As a result, I am making it an optional reading, and it will not be included on Thursday's quiz.***
+  - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
+
+- **Tuesday Exercise**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
 
 - **Thursday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
