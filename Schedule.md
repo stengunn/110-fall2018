@@ -41,7 +41,7 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 
 - **Tuesday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
-  - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017](https://www.youtube.com/watch?v=1aTApGWVGoI)
+  - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
 - **Tuesday Exercise**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
@@ -70,12 +70,12 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 ## <a name="week4">Week 4</a> (Sep 19/21): Basic HTML & CSS</a>
 
-This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll talk generally about these technologies, but most of your learning will come from the assigned tutorial.
+This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your learning will come from the assigned tutorial.
 
 **[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
-- Complete before Tuesday's class: Introduction and sections 1-2
-- Complete before (or in) Thursday's class: Sections 3-5 (bring headphones to class!)
-- Complete by Saturday morning: Sections 6-7
+- Complete before Tuesday's class: Introduction and sections 1-4
+- Complete before (or in) Thursday's class: Sections 5-7 (bring headphones to class!)
+- Be prepared to show your work for each of the chapter challenges to the TA
 
 **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**
 In order to do the exercises for week 5, you'll need to make sure that your account on RIT's web server is properly configured. Make sure you do this exercise during week 4, so that if there are problems we have time to correct them!
