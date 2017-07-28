@@ -70,16 +70,19 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 ## <a name="week4">Week 4</a> (Sep 19/21): Basic HTML & CSS</a>
 
-This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your learning will come from the assigned tutorial.
+This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your practical learning will come from the HTML Essential Training tutorial on Lynda.com. 
+
+You should complete the Introduction and sections 1-4 of the tutorial *before* class on Tuesday; the quiz that day will be based on those sections. 
+
+On both Tuesday and Thursday I will spend part of the class lecturing, and then will give you time to work on sections 5-7 of the tutorial; you must have those completed by the end of class on Thursday, and you will need to show me or the TA your work on the "challenge" components of each section to receive credit.   
 
 **[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
 - Complete before Tuesday's class: Introduction and sections 1-4
-- Complete before (or in) Thursday's class: Sections 5-7 (bring headphones to class!)
+- Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
 - Be prepared to show your work for each of the chapter challenges to the TA
 
 **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**
-In order to do the exercises for week 5, you'll need to make sure that your account on RIT's web server is properly configured. Make sure you do this exercise during week 4, so that if there are problems we have time to correct them!
-
+During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
 
 ## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
 
