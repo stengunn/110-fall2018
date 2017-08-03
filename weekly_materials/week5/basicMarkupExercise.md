@@ -1,42 +1,33 @@
-# Basic HTML & CSS Exercise 
+# Web Publishing Exercise 
 
 ## Overview & Goals
 
-In today's exercise, you'll use Visual Studio Code to create some web pages, adding basic CSS formatting, and uploading it to your RIT web space. 
+In today's exercise, you'll use Visual Studio Code to create some web pages. Much of the HTML I'm asking you to create was already covered in the HTML Essential Training tutorial, so this should primarily be review. 
 
-We will also be adding a configuration file to your RIT web space to override some of the server's (problematic) default behavior.
+You will then use an FTP program to upload the files you've created to the RIT web server, and will also be adding a configuration file to your RIT web space to override some of the server's default behavior.
 
 ## Setting Up Your Folders and Files
 
-On your computer (or on a USB drive) create a folder called banjo. Inside of the banjo folder, put a folder called www . Inside of the www folder, put a folder called igme110. And inside of the igme110 folder, put folder called media. The www folder represents your www directory on banjo.rit.edu. The igme110 folder is where all of your exercises and projects for this class will be stored.  
+On your computer (or on a USB drive) create a folder called RIT Web. Inside that folder, create a folder called www. Inside of the www folder, create a folder called igme110. And inside of the igme110 folder, create a folder called media. The www folder represents your www directory on banjo.rit.edu. The igme110 folder is where all of your exercises and projects for this class will be stored. 
 
+![Example File Structure](110homepage-folderstructure.png)
 
-## Setting Up VS Code
-
-While you can use Visual Studio Code to open and edit a single file, it works best if you start by pointing it to your working folder. Launch the program, and then choose "Open Folder..." from the File menu. Find the igme110 folder you just created on your local or USB drive, and and open it. 
 
 ## Creating Your Class Home Page
 
-Choose "New File" from either the welcome page (if it's displayed) or from the File menu.   
+Using VS Code (or your HTML editor of choice), create a new HTML file in the igme110 folder called index.html. 
 
-Save the blank file with the name "index.html" in the igme110 folder. The file extension does two things--first,it tells VS Code that you want to use HTML syntax in the file, and second, after it's been uploaded it tells the web server how to process the file when it's requested. 
+In the head of the document, add this content to the title element (using your name, of course): `<title>Elizabeth Lawley's IGME 110 Page</title>`
 
-Now you're going to use one of VS Code's built-in HTML tricks, which is powered by an addon called "Emmet". Type `html:5` on the first line of the document (don't add any spaces or new lines after it), and then press tab. You should see a full HTML 5 document structure appear in the file. 
+In the body of the document, add a level 1 heading element containing your name. Below that, add a paragraph element that that includes a few lines about yourself. Save the file. 
 
-In the head of the document, add this content to the title tag (using your name, of course):
-```<title>Elizabeth Lawley's IGME 110 Page</title>```
+Open a web browser, and in the browser use the File-->Open command to locate and display the index.html file you just created. (Or, if you have previewing capability in your editor, you can use that.) It should look something like this:
 
-In the body of the document, add a level 1 heading tag (`<h1></h1>`) and put your name in it. Below that, add a paragraph (`<p></p>`) that includes a few lines about yourself. Save the file. 
-
-Open a web browser, and in the browser use the File-->Open command to locate and display the index.html file you just created. It should look something like this:
-
-![index.html with h1 and p content](110homepage-1.png) 
+![Screenshot of index.html page](110homepage-1.png) 
 
 ## Adding an Image
 
-Part  2:  Adding An Image
-
-Find a Creative Commons-licensed image on the web, or an image that you’ve got the rights to, that you’d like to include on your page. Save a copy of it to the igme110 folder. 
+Find a Creative Commons-licensed image on the web, or an image that you own the rights to, that you’d like to include on your page. Save it in your igme110 folder. 
 
 You’re going to add code to your HTML to display the image properly on the page. In Komodo edit, put your cursor after the heading with your name, but before the first paragraph of text. (If there’s not a blank line there already, you can add one, to make the code easier to read.) Type in `<img src="" alt="">` (or, use the Emmet shortcut by typing `img` and pressing tab). 
 
@@ -58,9 +49,9 @@ If your image isn’t showing up properly, ask for help now! (If it’s much too
 
 As your web site gets bigger, keeping all your files in the same directory makes it harder to keep them organized. Web developers typically have different directories for different parts of their site, and also often  keep images in a separate directory. You created a media folder in your www directory, and that’s where we’re going to put the images you use on your site. 
 
-On your computer, open the igme110 folder you created. Move your image file from igme110 into the media folder. (Your structure should look like this:
+On your computer, open the igme110 folder you created. Move your image file from igme110 into the media folder. Your structure should look like this:
 
-![index.html with image added](110homepage-folderstructure.png) 
+![index.html with image added](110homepage-filestructure.png) 
 
 Now try reloading your page in the browser again.  If you followed the directions properly, the image won’t load now. The browser is still looking for it in the same directory as the HTML file, but it’s not there. We need to tell the browser how to find the image, using a relative path. 
 
