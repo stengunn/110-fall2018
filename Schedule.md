@@ -67,6 +67,9 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [F*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
+
+- **[Exercise to Prepare for Week 4](weekly_materials/week3/vsCodeIntroExercise.md)**: Instead of doing readings for next week, you'll be completing an HTML tutorial on Lynda.com. You'll need to use an HTML editor to edit the files in the tutorial. In class, I'll be using VS Code, which is a powerful editor that is both free and cross-platform. This exercise, which we'll do in class on Thursday, walks you through using it for HTML files. If you would prefer to use a different editor, that's fine, but I won't be able to provide you with as much support. 
+
 ***Make sure you start on the tutorials for week 4 as early as possible; you're going to need to budget at least 4-6 hours for the sections due on Tuesday!***
 
 

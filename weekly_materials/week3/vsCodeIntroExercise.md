@@ -1,7 +1,9 @@
-# Using Visual Studio Code for HTML Files
+# Using Visual Studio Code with the HTML Essential Training Tutorial
 
-## Downloading the Exercise Files From Lynda.com
-Go to the main page for the Lynda.com tutorial for next week, [HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Click on the tab for "Exercise Files", download `Ex_Files_HTML_EssT.zip` to a local drive, and unzip the archive.  
+Visual Studio Code (VS Code) is a powerful, free, cross-platform text editor that is optimized for web development. All of the IGM lab computers have VS Code installed, and you can download it for your own Mac or PC from https://code.visualstudio.com/ .
+
+## Retrieving the Exercise Files From Lynda.com
+Go to the main page for the Lynda.com tutorial for next week, [HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). Click on the tab for "Exercise Files", download `Ex_Files_HTML_EssT.zip` to a local drive, and unzip the archive.
 
 ## Using VS Code to Open a Folder
 While you can use Visual Studio Code to open and edit a single file, it works best if you start by pointing it to your working folder. Launch the program, and then choose "Open Folder..." from the Welcome page or from the File menu. Select the Exercise_files folder inside the unzipped archive, and choose Open. You should see something like this: 
