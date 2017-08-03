@@ -83,16 +83,15 @@ On both Tuesday and Thursday I will spend part of the class lecturing, and then 
   - Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
   - Be prepared to show your work for each of the chapter challenges to the TA
 
-- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
+- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
 
 ## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
 
 Now that you've learned how to create web pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
 
 - **Tuesday Readings**
-  - [Why All Developers Should Learn Command Line](http://www.hongkiat.com/blog/developers-command-line/)
-  - [The Command Line for Web Design: Grasping the Basics](https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-grasping-the-basics--cms-23318)
-  - [Introduction to PuTTY](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) (you may find the other chapters useful when you're working with PuTTY, but only the first chapter is required reading)
+  - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
+  - [Introduction to PuTTY, Chapter 1](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) 
 
 - **[Tuesday Exercise](weekly_materials/week5/110-Fall-2017-Unix-Exercise.pdf)** In this exercise, you'll develop familiarity with the UNIX command line environment by logging into RIT's banjo.rit.edu server and executing a number of UNIX commands. 
 
