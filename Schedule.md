@@ -67,26 +67,41 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [F*ck You, Pay Me: Video of a talk by Mike Monteiro, founder of Mule Design](https://www.youtube.com/watch?v=jVkLVRt6c1U&app=desktop)
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
+***Make sure you start on the tutorials for week 4 as early as possible; you're going to need to budget at least 4-6 hours for the sections due on Tuesday!***
+
 
 ## <a name="week4">Week 4</a> (Sep 19/21): Basic HTML & CSS</a>
 
 This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your practical learning will come from the HTML Essential Training tutorial on Lynda.com. 
 
-You should complete the Introduction and sections 1-4 of the tutorial *before* class on Tuesday; the quiz that day will be based on those sections. 
+You should complete the Introduction and sections 1-4 of the tutorial *before* class on Tuesday; the quiz that day will be based on those sections. To complete the tutorials, you will need to use an editor that can create HTML files. If you already have a preferred editor, you're welcome to use it. If not, I highly recommend [Visual Studio Code](https://code.visualstudio.com/), which is free, cross-platform, and optimized for web development. It's what I'll use when demonstrating things in class, and in the in-class exercises. 
 
-On both Tuesday and Thursday I will spend part of the class lecturing, and then will give you time to work on sections 5-7 of the tutorial; you must have those completed by the end of class on Thursday, and you will need to show me or the TA your work on the "challenge" components of each section to receive credit.   
+On both Tuesday and Thursday I will spend part of the class lecturing, and then will give you time to work on sections 5-7 of the tutorial; you must have those completed by the end of class on Thursday, and you will need to show me or the TA your work on the "challenge" components of each section to receive credit. You should plan to bring headphones to class on both days. (If you forget, there is transcription of the audio provided on the tutorials.)
 
-**[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
-- Complete before Tuesday's class: Introduction and sections 1-4
-- Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
-- Be prepared to show your work for each of the chapter challenges to the TA
+- **[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
+  - Complete before Tuesday's class: Introduction and sections 1-4; 
+  - Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
+  - Be prepared to show your work for each of the chapter challenges to the TA
 
-**[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**
-During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
+- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
 
 ## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
 
-Now that you know how to create web pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
+Now that you've learned how to create web pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
+
+- **Tuesday Readings**
+  - [Why All Developers Should Learn Command Line](http://www.hongkiat.com/blog/developers-command-line/)
+  - [The Command Line for Web Design: Grasping the Basics](https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-grasping-the-basics--cms-23318)
+  - [Introduction to PuTTY](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) (you may find the other chapters useful when you're working with PuTTY, but only the first chapter is required reading)
+
+- **[Tuesday Exercise](weekly_materials/week5/110-Fall-2017-Unix-Exercise.pdf)** In this exercise, you'll develop familiarity with the UNIX command line environment by logging into RIT's banjo.rit.edu server and executing a number of UNIX commands. 
+
+- **Thursday Readings**
+  - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
+  - [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
+
+- **[Thursday Exercise](weekly_materials/week5/basicMarkupExercise.md)**: In this exercise you'll create some basic HTML files, and then use an FTP client to upload HTML files to the RIT server. 
+
 
 ## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
 
