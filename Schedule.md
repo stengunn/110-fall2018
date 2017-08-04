@@ -106,10 +106,27 @@ Now that you've learned how to create web pages, you need to learn how to publis
 
 
 ## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
+This week you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages, and learn how to use HTML entities . 
+
+- **Tuesday Readings**
+  - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
+  - [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
+  - [Web Typography Mistakes](http://webdesign.about.com/od/fonts/tp/web-typography-mistakes.htm)
+
+- **Thursday Readings**
+ - [HTML Entities](https://www.w3schools.com/html/html_entities.asp) and [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp) from W3Schools
+
+- **[Thursday Exercise](weekly_materials/week6/typographyExercise.md)**: In this exercise you'll work with CSS for typographic formatting, learn how to add Google Fonts to your documents, and work with HTML entities. You can choose to complete this exercise *before* Thursday's class, in which case you do not have to attend class. 
 
 ## <a name="week7">Week 7</a> (Oct 12): Graphic Design Concepts
 
-## <a name="week8">Week 8</a> (Oct 17/19): CSS Box Model & Layout
+We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts. Please make sure you've completed the readings before class!
+
+- **Thursday Readings**
+  - [Lynda.com: Introduction to Graphic Design, Section 1 (Core Concepts) and 3 (Introduction to Color)](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
+  - [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
+
+## <a name="week8">Week 8</a> (Oct 17/19): Web Design and Layout Using CSS
 
 ## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
