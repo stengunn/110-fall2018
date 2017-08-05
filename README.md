@@ -30,7 +30,7 @@ Because much of the class revolves around in-class exercises, attendance is crit
 These are brief descriptions of each of the assignments. Follow the links to see more detailed information. 
 
 ### Exercises & Homework (20% of final grade)
-Every Thursday there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to the exercise. Exercises and homework will be always be uploaded to myCourses, with information on their required submission date and time. If a class will have no lecture content, I will inform you of that, and allow you to submit the exercise early instead of attending class. 
+At least once a week there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to the exercise. Exercises and homework will be always be uploaded to myCourses, with information on their required submission date and time. If a class will have no lecture content, I will inform you of that, and allow you to submit the exercise early instead of attending class. 
 
 ### [Research Paper (20% of final grade)](projects/Paper.md)
 For this paper, you will select a person, event, or technology related to the Internet or media—ideally, one that is important to you. You will write a 5-7 page paper on this topic, and will need to cite a variety of sources—so be sure to select a topic on which you can find sufficient resources. 
