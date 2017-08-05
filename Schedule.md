@@ -125,8 +125,24 @@ We will not have class on Tuesday of this week, because it is a reading day. On 
 - **Thursday Readings**
   - [Lynda.com: Introduction to Graphic Design, Section 1 (Core Concepts) and 3 (Introduction to Color)](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
   - [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
+  - [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
+
+- **[Thursday Exercise](weekly_materials/week7/designCritiqueExercise.md)**
 
 ## <a name="week8">Week 8</a> (Oct 17/19): Web Design and Layout Using CSS
+This week you'll learn how to implement graphic design concepts, particularly grid-based layout, on web pages using CSS. 
+
+- **Tuesday Readings**
+  - [Lynda.com: Making Sense of the CSS Box Model, Sections 1-3](https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html?org=rit.edu) - This is not a hands-on tutorial, so you should be able to complete it fairly quickly.
+
+- **Thursday Readings from W3 Schools** (You will not be quizzed on these.)
+  - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+  - [CSS Layout: Display](https://www.w3schools.com/css/css_display_visibility.asp)
+  - [CSS Layout: Width and Max-Width](https://www.w3schools.com/css/css_max-width.asp)
+  - [CSS Layout: Overflow](https://www.w3schools.com/css/css_overflow.asp)
+  - [CSS Layout: Float](https://www.w3schools.com/css/css_float.asp)
+  - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
+  - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_inline-block.asp)
 
 ## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
