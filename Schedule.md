@@ -123,7 +123,7 @@ This week you'll learn the importance of typographic choices, including font fam
 We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts. Please make sure you've completed the readings before class!
 
 - **Thursday Readings**
-  - [Lynda.com: Introduction to Graphic Design, Section 1 (Core Concepts) and 3 (Introduction to Color)](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
+  - [Lynda.com: Introduction to Graphic Design, Section 1-3](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
   - [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
   - [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 
@@ -143,7 +143,7 @@ This week you'll learn how to implement graphic design concepts, particularly gr
     - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
     - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_inline-block.asp)
 
-- **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md) - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
+- **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
