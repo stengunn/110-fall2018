@@ -134,15 +134,16 @@ This week you'll learn how to implement graphic design concepts, particularly gr
 
 - **Tuesday Readings**
   - [Lynda.com: Making Sense of the CSS Box Model, Sections 1-3](https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html?org=rit.edu) - This is not a hands-on tutorial, so you should be able to complete it fairly quickly.
+  - Readings from W3 Schools** (You will not be quizzed on these.)
+    - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+    - [CSS Layout: Display](https://www.w3schools.com/css/css_display_visibility.asp)
+    - [CSS Layout: Width and Max-Width](https://www.w3schools.com/css/css_max-width.asp)
+    - [CSS Layout: Overflow](https://www.w3schools.com/css/css_overflow.asp)
+    - [CSS Layout: Float](https://www.w3schools.com/css/css_float.asp)
+    - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
+    - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_inline-block.asp)
 
-- **Thursday Readings from W3 Schools** (You will not be quizzed on these.)
-  - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-  - [CSS Layout: Display](https://www.w3schools.com/css/css_display_visibility.asp)
-  - [CSS Layout: Width and Max-Width](https://www.w3schools.com/css/css_max-width.asp)
-  - [CSS Layout: Overflow](https://www.w3schools.com/css/css_overflow.asp)
-  - [CSS Layout: Float](https://www.w3schools.com/css/css_float.asp)
-  - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
-  - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_inline-block.asp)
+- **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md) - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
 
