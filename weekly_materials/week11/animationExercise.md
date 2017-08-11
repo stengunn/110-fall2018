@@ -26,11 +26,7 @@ Animation is a means of drawing attention and emphasis to your interfaces by lev
 
 11. While newly pasted-in frames are still selected, go to the Animation panel menu again and select "Reverse Frames." Now, play the animation and see how it looks--if you did this all properly, the text should scroll in from the left and fade in, then a second later scroll back left and fade out. 
 
-12. Save this as a PSD file so you can re-use it, and then output it as an animated GIF called name.gif 
-
-**Frame Animation Deliverable**
-
-Upload the name.gif file to your igme110 directory on Banjo, so that it appears at http://people.rit.edu/youruserid/igme110/name.gif***
+12. Save your changes to the PSD file, and then export it as an animated GIF and save it to a new folder called "week11". 
 
 ## Part 2: Rotoscoping a Sword Fight
 
@@ -62,9 +58,9 @@ Download the file [shortSword.mp4](shortSword.mp4). This is Creative Commons lic
 
 13.	Feel free to use rotoscope effects to alter other elements of the video clip such as garments, gloves, face-guards, background (you can add scenery and other characters if you wish)
 
-**Rotoscoping Deliverable**
+14. When you are finished, use Export -> Render Video to make an mp4 file out of the rotoscoped clip.  Use an H.264 codec and pick a preset (for instance "Android phone 360p Widescreen") which will result in a reasonably small file size. Save it with the file name rotoscope.mp4 in the "week11" folder you created in Part 1. 
 
-When you are finished, use Export -> Render Video to make an mp4 file out of the rotoscoped clip.  Use an H.264 codec and pick a preset (for instance "Android phone 360p Widescreen") which will result in a reasonably small file size.
+## Exercise Deliverables
 
-Upload the resulting video file YouTube (it can be either public or unlisted), and post the URL to the dropbox in myCourses, no later than 6pm on Saturday, November 19th.
+Upload the week11 folder, which should contain the name.gif and the rotoscope.mp4, to your igme110 folder on banjo.rit.edu. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
 
