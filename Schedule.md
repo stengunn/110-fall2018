@@ -86,11 +86,11 @@ On both Tuesday and Thursday I will spend part of the class lecturing, and then 
   - Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
   - Be prepared to show your work for each of the chapter challenges to the TA
 
-- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will eneable you to determine if your RIT web account was properly configured.  Make sure you do this exercise during week 4, so that if there are problems you have time to correct them!
+- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* week 5, so that if there are problems you have time to correct them!
 
 ## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
 
-Now that you've learned how to create web pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
+Now that you've learned how to create HTML pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
 
 - **Tuesday Readings**
   - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
@@ -134,7 +134,7 @@ This week you'll learn how to implement graphic design concepts, particularly gr
 
 - **Tuesday Readings**
   - [Lynda.com: Making Sense of the CSS Box Model, Sections 1-3](https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html?org=rit.edu) - This is not a hands-on tutorial, so you should be able to complete it fairly quickly.
-  - Readings from W3 Schools** (You will not be quizzed on these.)
+  - Readings from W3 Schools** 
     - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
     - [CSS Layout: Display](https://www.w3schools.com/css/css_display_visibility.asp)
     - [CSS Layout: Width and Max-Width](https://www.w3schools.com/css/css_max-width.asp)
@@ -146,10 +146,34 @@ This week you'll learn how to implement graphic design concepts, particularly gr
 - **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
+This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself. 
+
+- **Tuesday Readings**
+  - [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
+  - [Adobe.com: Image Size and Resolution](https://helpx.adobe.com/photoshop/using/image-size-resolution.html)
+  - [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
+  - [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
+
+- **Thursday Homework**
+  - [Photoshop CC 2017 Essential Training: The Basics](https://www.lynda.com/Photoshop-tutorials/Saving-documents/519289/556879-4.html?org=rit.edu) Complete sections 1-4 *before* class on Thursday. While you will not be quizzed or checked on this, Thursday's exercise depends on your having basic competency with Photoshop.
+
+- **[Thursday Exercise](weekly_materials/week9/color-optimizationExercise.md)** : You may choose to complete this exercise on your own rather than coming to class on Thursday. If you do so, the deliverable at the end must be uploaded to banjo.rit.edu by the beginning of Thursday's class. If you come to class on Thursday, the exercise will be due at 8am on Saturday 10/28. 
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
+On Tuesday, we'll extend our discussion of digital images, looking at various tools and techniques for image editing. On Thursday, you'll use Photoshop to do some image compositing.
+
+- **Tuesday Readings**
+  - [Vector vs Raster: What Do I Use?](https://designshack.net/articles/layouts/vector-vs-raster-what-do-i-use/)
+  - [Adobe.com: Choosing the right design app](https://helpx.adobe.com/creative-cloud/how-to/photoshop-illustrator-indesign-overview.html)
+  - [The best free alternatives to Adobe Creative Cloud 2017](http://www.techradar.com/news/the-best-free-alternatives-to-adobe-creative-cloud)
+
+- **Thursday Homework**
+  - [Photoshop CC 2017 Essential Training: The Basics](https://www.lynda.com/Photoshop-tutorials/Saving-documents/519289/556879-4.html?org=rit.edu) Complete sections 5-9 *before* class on Thursday. You won't be quizzed or checked, but you'll need this knowledge for this week's exercise. 
+
+- **[Thursday Exercise](weekly_materials/week10/compositingExercise.md)** - This exercise will give you experience with image compositing. If you choose to work on this on your own rather than coming to class on Thursday, the deliverables must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 8am on Saturday, November 4th. 
 
 ## <a name="week11">Week 11</a> (Nov 7/9): Animation Concepts
+
 
 ## <a name="week12">Week 12</a> (Nov 14/16): Digital Audio Concepts
 
