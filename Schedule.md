@@ -16,7 +16,7 @@
 - [Week 13 (Nov 21): Presentation Skills](#week13)
 - [Week 14 (Nov 28/30): Digital Video Concepts](#week14)
 - [Week 15 (Dec 5/7): Responsible Social Media Use](#week15)
-- [Finals Week: Final Presentations](projects/Presentation.md)
+- [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
 
 ## <a name="week1">Week 1</a> (Aug 29/31): Course Overview & Communication Tools
 On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
