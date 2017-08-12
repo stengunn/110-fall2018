@@ -1,8 +1,8 @@
 # Week 1 Tuesday Homework: Communication Basics
 
-In this exercise, you'll set up your Slack account and send me your username so that I can add you to a private  channel for your notetaking group.  All tasks must be completed by midnight on Tuesday, 8/29. 
+In this exercise, you'll set up your Slack account and send me your username so that I can add you to a private channel for your notetaking group.  You'll also add a photo to your myCourses profile. All tasks should be completed before 8am on Wednesday, 8/30, so that we can add you to the correct private channel in Slack. 
 
-***Important note:*** *If you already use Slack with another group, you will not be able to use that login for the class Slack. Every Slack team is a separate system, with its own usernames and passwords. You can, however, be logged into multiple Slack teams from the same client.*
+***Important note:*** *If you already use Slack with another group, you will not be able to use that login for the class Slack. Every Slack team has its own unique usernames and passwords. You can, however, be logged into multiple Slack teams from the same client.*
 
 1. Create an account in our class Slack at http://lawley-110-2017.slack.com. (You will have to use your RIT email for this.) [Edit your profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include your first and last name, and a (recognizable) photo of yourself. 
 
