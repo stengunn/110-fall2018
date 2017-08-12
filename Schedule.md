@@ -186,8 +186,31 @@ On Tuesday, we'll extend our discussion of digital images, looking at various to
 
 ## <a name="week12">Week 12</a> (Nov 14/16): Digital Audio Concepts
 
+- **Tuesday Readings**
+  - [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
+  - [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
+  - [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
+
+- **Thursday Homework**
+  - [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
+  - [Audacity Software Download](http://www.audacityteam.org/download/) - Only necessary if want to do the tutorial on your own computer. 
+
+- **[Thursday Exercise](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+
+
 ## <a name="week13">Week 13</a  (Nov 21): Presentation Skills
+This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
+
+- **Readings**
+  - [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
+  - [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html) 
+  - [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
 
 ## <a name="week14">Week 14</a> (Nov 28/30): Digital Video Concepts
+It's unrealistic for me to think you'll do much reading over Thanksgiving, so there are no readings for Tuesday. :) Instead of giving a readings quiz at the beginning of class, I'll give a lecture quiz at the end of class. 
+
+- **Thursday Tutorials**
+  - [Adobe.com: Video Editing Basics](https://helpx.adobe.com/photoshop/how-to/video-editing.html)
+  - [Lynda.com: Photoshop CC 2017 One-on-One: Section 37 (Editing Videos)](https://www.lynda.com/Photoshop-tutorials/Why-edit-video-Photoshop/497777/635164-4.html?org=rit.edu)
 
 ## <a name="week15">Week 15</a> (Dec 5/7): Responsible Social Media Use
