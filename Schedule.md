@@ -198,7 +198,7 @@ On Tuesday, we'll extend our discussion of digital images, looking at various to
 - **[Thursday Exercise](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
 
 
-## <a name="week13">Week 13</a  (Nov 21): Presentation Skills
+## <a name="week13">Week 13</a> (Nov 21): Presentation Skills
 This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
 
 - **Readings**
@@ -212,5 +212,7 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
 - **Thursday Tutorials**
   - [Adobe.com: Video Editing Basics](https://helpx.adobe.com/photoshop/how-to/video-editing.html)
   - [Lynda.com: Photoshop CC 2017 One-on-One: Section 37 (Editing Videos)](https://www.lynda.com/Photoshop-tutorials/Why-edit-video-Photoshop/497777/635164-4.html?org=rit.edu)
+
+- **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
 
 ## <a name="week15">Week 15</a> (Dec 5/7): Responsible Social Media Use
