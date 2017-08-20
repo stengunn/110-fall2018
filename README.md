@@ -2,11 +2,14 @@
 
 ## Instructor and Class Details
 - Professor Elizabeth Lawley  
-- Office: GOL-2545
-- Email: Elizabeth.Lawley@rit.edu
-- Office hours: T/Th 10am-12pm 
+  - Office: GOL-2545
+  - Email: Elizabeth.Lawley@rit.edu
+  - Office hours: T/Th 10am-12pm 
+- TA Emily Turner
+  - Email: ekt6170 at rit dot edu
+  - Lab Hours: TBA
 - Class Slack: https://lawley-110-2017.slack.com/
-- Class meetings: T/TH 8-9:20am in ORN-1370
+- Class Time/Location: Tuesdays & Thursdays, 8-9:20am, 1370 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
