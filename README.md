@@ -7,6 +7,7 @@
 - Office hours: T/Th 10am-12pm 
 - Class Slack: https://lawley-110-2017.slack.com/
 - Class meetings: T/TH 8-9:20am in ORN-1370
+- [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
 This course provides an overview of media in historical, current and future contexts. Incorporating lectures and discussion with hands on work involving written and interactive media assets, students examine the role of written and visual media from theoretical as well as practical perspectives. The course also provides an introduction to interactive media development techniques, including digital media components and delivery environments. Students will be required to write formal analysis and critique papers, and use digital modes of writing including collaborative editing and effective presentation design. 
@@ -22,6 +23,9 @@ MyCourses will *only* be used for grading, quizzes, and submission of assignment
 
 ## Course Organization
 Listening to a lecture is seldom the best way to learn. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
+
+## [Course Topics & Schedule](Schedule.md)
+The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
 
 ## Attendance
 Because much of the class revolves around in-class exercises, attendance is critical. If you miss a class, you should check Github and/or Slack for information on the exercise, and complete it on your own time. If you know you'll be missing a class due to a conflict please let me know, so I can make sure you have the materials for the exercise. While I do not give a grade for attendance, missing a class where there's a quiz will result in a zero on the quiz, and missing a class where there's an exercise, if you haven't completed the work in advance, results in a zero on the exercise. 
@@ -47,9 +51,6 @@ I will give at least one quiz each week, with content drawn from that week’s r
 ### Group Notes  (10% of final grade)
 You will be assigned to a group for collaborative note-taking during the semester, using RIT’s Google Docs. You are expected to actively participate in creating and/or editing the notes. Your group will receive a grade for the quality of the notes, but if you did not participate in a substantive way you will receive no credit.
 	
-## [Course Topics & Schedule](Schedule.md)
-The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
-
 ## Additional Policies
 
 ### Important RIT Deadlines
