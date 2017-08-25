@@ -4,16 +4,14 @@
 
 2. Open the group folder, and from the drop-down menu next to its name at the top of the screen, choose "Add to My Drive" <br>![Add to Drive Screenshot](add2drive.png)
 
-3. Open the Week 01 document and add some notes from today's lecture. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
+3. Open the Week 01 document and add some notes from this week's lectures. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
 
 4. In a different browser tab, open the class Slack site at https://lawley-110-2017.slack.com/, 
 
 5. Find your group's private channel ("groupX"). (If you don't see a private channel with your group's number, it's because we didn't get your Slack ID in time to add it; ask the professor or TA to add you now.)
 
-6. [Add Google Drive access to your Slack account](https://get.slack.help/hc/en-us/articles/205875058-Google-Drive-for-Slack), and share a document from Google Drive to your group's channel.  
+6. [Add Google Drive access to your Slack account](https://get.slack.help/hc/en-us/articles/205875058-Google-Drive-for-Slack), and share the Week 1 Notes document from Google Drive to the #week1exercise channel.
 
-7. Configure your Slack notifications. You can change the "do not disturb" window (by default it's set from 10pm to 8am), and/or change notification preferences on a channel by channel basis. (Because the #announcements channel is used only by the professor for class-wide announcements, it's not a good idea to mute that channel.) 
-
-8. Before you leave class, show the professor or the TA that you've successfully added the notes folder to your Google Drive, and that you've set up the Google Drive integration with Slack. 
+7. Configure your Slack notifications. You can change the "do not disturb" window (by default it's set from 10pm to 8am), and/or change notification preferences on a channel by channel basis. (Because the #announcements channel is used only by the professor and TA for class-wide announcements, it's not a good idea to mute that channel!)
 
 ***If you have an iOS or Android mobile device, I highly recommend installing the Slack app so that you don't have to be in front of a computer to get notifications!***
