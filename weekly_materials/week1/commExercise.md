@@ -2,9 +2,9 @@
 
 1. Log into RIT's Google Apps site (http://google.rit.edu), go to the Drive section, and select the "Shared With Me" option in the left sidebar. You should see a folder for your group (e.g. "IGME.110.2017 Group X"). If you don't see it, let the professor or TA know there's a problem. 
 
-2. Open the group folder, and from the drop-down menu next to its name at the top of the screen, choose "Add to My Drive" <br>![Add to Drive Screenshot](add2drive.png)
+2. Right-click the folder, and from the drop-down menu choose "Add to My Drive" <br>![Add to Drive Screenshot](add2drive.png)
 
-3. Open the Week 01 document and add some notes from this week's lectures. If other group members have already entered notes, you can add to them, edit them, format them, etc. 
+3. Open the Week 01 Notes document inside the folder and add some notes from this week's lectures. If other group members have already entered notes, you can add to them, edit them, format them, etc. There doesn't need to be a lot of content, but when we look at the version history for the file (File->Version History->See version history), we should see some evidence of meaningful partcipation by you. 
 
 4. In a different browser tab, open the class Slack site at https://lawley-110-2017.slack.com/, 
 

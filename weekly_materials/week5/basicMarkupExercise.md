@@ -8,7 +8,7 @@ You will then use an FTP program to upload the files you've created to the RIT w
 
 ## Setting Up Your Folders and Files
 
-On your computer (or on a USB drive) create a folder called RIT Web. Inside that folder, create a folder called www. Inside of the www folder, create a folder called igme110. And inside of the igme110 folder, create a folder called media. The www folder represents your www directory on banjo.rit.edu. The igme110 folder is where all of your exercises and projects for this class will be stored. 
+On your computer (or on a USB drive) create a folder called RIT Web. Inside that folder, create a folder called www. Inside of the www folder, create a folder called igme110. And inside of the igme110 folder, create a folder called media. The www folder represents your www directory on 'banjo.rit.edu'. The igme110 folder is where all of your exercises and projects for this class will be stored. 
 
 ![Example File Structure](110homepage-folderstructure.png)
 
@@ -82,6 +82,8 @@ In your web browser, reload your index.html page, and make sure the links betwee
 
 Now we’ll use FTP (actually SFTP, which uses a secure connection to the server) to put your web pages onto the banjo server.
 
+You can use whichever SFTP (secure File Transfer Program) you'd like to uplaod files to the server. In the IGM labs, we have FileZilla installed, so that's what's used in this documentation. (You can download FileZilla for your own computer at https://filezilla-project.org/download.php?show_all=1 -- if you're using Windows, I strongly suggest downloading the .zip file rather than the .exe file, since the executable file will try to install browser addons that can cause all kinds of problems.) 
+
 Launch FileZilla.  Fill in the fields at the top with the following information, and click “Quickconnect”:
 ![FileZilla Connect Screen](filezilla-connect.png)
 
@@ -98,12 +100,18 @@ Once you’ve got the www directory on your local computer on the left side, and
 
 Now you need to test the files on the web server, to see if they’re accessible. Use a browser to go to `http://people.rit.edu/youruserid/igme110` (substituting your RIT ID for *youruserid*)
 
-If the files and images show up, great! But it’s possible that they won’t, because the access to the files may not be set properly by default. I’ll review how to change permissions on files in our class, but for reference purposes, here’s how to do it:
+If the files and images show up, great! But it’s possible that they won’t, because the access to the files may not be set properly by default. 
 
-In FileZilla, right click on the folder in the right pane, choose “File Permissions” and make sure the permissions include read write and execute for the owner (that’s you), and read and execute for everyone else. The number in the box at the bottom should read “755” which is shorthand for those permissions. (You can either type the number into the box at the bottom, or check the boxes next to the permissions you want.) 
-Once you’ve checked the permissions on the folders, you need to also check the permissions for the individual files. Double click on a folder to open it, and repeat the process of right-clicking and choosing File Permissions for each of the individual files. The HTML and image files don’t need execute permissions, so the shortcut for their permissions is 644 rather than 755. 
+## Fixing Folder & File Access Permissions
 
-Once you’re sure all the files have the right permissions, go back to the browser and try loading the URL above one more time. If it still won't load, ask for help!
+In FileZilla, select the www folder in the right pane (on the server)
+Right click on the folder in the right pane, choose “File Permissions” and make sure the permissions include read write and execute for the owner (that’s you), and read and execute for everyone else. The number in the box at the bottom should read “755” which is shorthand for those permissions. (You can either type the number into the box at the bottom, or check the boxes next to the permissions you want.) Make sure the box that reads "recurse into subdirectories" is selected, and choose "Apply to directories only." Click OK. This should change the permissions for the www directory, and all directories below of it, including the igme230 directory and the test directory. 
+
+Once you’ve changed the permissions on the folders, you need to repeat that process to change the permissions for the individual files. They don't need execute permissions, so the shortcut for their permissions is 644 rather than 755.  
+
+![Folder Permissions](folderpermissions.png)  ![File Permissions](filepermissions.png)
+
+Once you've changed the folder and file permissions for www and everything inside of it, go back to the browser and try loading `http://people.rit.edu/youruserid/igme110` again. If it still won't load, ask for help!
 
 Notice that the URL I gave you only has the directory name (igme110) and not a file name. That is because banjo, like most web servers, automatically looks for a file called index.html in a folder if no other file was specified. If you were to include the file name in the URL (e.g. `http://people.rit.edu/youruserid/igme110/index.html`), it would also recognize that file and load it. But if you end the URL with the directory name and don’t specify a file, the server will automatically load the index.html file if there is one in that directory. 
 
@@ -111,9 +119,9 @@ Once your page has displayed properly, view the source in the web browser (if yo
 
 ## Fixing Banjo
 
-banjo.rit.edu uses specific server-techniques to help pages across RIT's sites load faster, but these techniques have the side effect of making pages on the server harder for us to debug and to validate.
+'banjo.rit.edu' uses specific server-techniques to help pages across RIT's sites load faster, but these techniques have the side effect of making pages on the server harder for us to debug and to validate.
 
-To fix this, you're going to need to copy a file from my www directory to yours via the command line. As you did on Tuesday, use PuTTY (or Terminal on a Mac) to connect to banjo.rit.edu, and then type the following commands:
+To fix this, you're going to need to copy a file from my www directory to yours via the command line. As you did on Tuesday, use PuTTY (or Terminal on a Mac) to connect to 'banjo.rit.edu', and then type the following commands:
 
 ```
 cd www
