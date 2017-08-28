@@ -23,7 +23,10 @@ At the top of your blank document, type `html:5` and then press the tab key. (Do
 
 ![VS Code HTML 5 Document](vscode-html5.png)
 
-## Live Previewing Documents
-Unlike Brackets, VS Code does not have live previewing built in by default. Instead, you will need to open a web browser and choose File-->Open to preview your HTML files. 
+## Getting Credit for This Exercise
+Before leaving class, make sure you show your professor or your TA that you've successfully downloaded the exercise files, opened the folder in VS Code, and created an HTML file. 
+
+## Optional: Live Previewing Your HTML
+VS Code does not have the ability to preview your HTML file built in by default. To see how your files look while you're working on the exercises, you will need to save the file to disk, and then use File-->Open in your browser of choice to preview your HTML files. 
 
 However, there is an extension that you can install to enable live previewing in VS Code. Click on the extensions icon in the left pane, and type in `Preview on Web Server` to search for it. Click the Install button, and then the reload button. Now you should be able to type Ctrl-Shift-P to bring up a live preview of your code, or Ctrl-Shift-L to open it in your default browser. 
