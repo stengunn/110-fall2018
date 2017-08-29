@@ -23,7 +23,7 @@ Here are some resources that may be helpful as you work on your paper:
 
 ## Deliverables
 
-### Topic Idea: Due before midnight on Monday, September 4th
+### Topic Idea: Due before class on Tuesday, September 5th
 A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned in by 11:59pm on Monday 9/4. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback by Thursday 9/6. 
 
 ### First Draft: Due before midnight on Monday, September 11th 

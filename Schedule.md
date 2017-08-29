@@ -24,20 +24,19 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](weekly_materials/week1/commHomework.md)**: Set up your Slack account, add a photo to your myCourses account, and send me an email with your Slack username. 
+- **[Tuesday Homework](weekly_materials/week1/commHomework.md)**: Set up your Slack account, add a photo and a post to the #introductions channel, and send an email with your Slack username to the professor and the TA.  
 
 - **<a name="w1-th-readings">Thursday Readings</a>**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
    - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) *(Note: In our class Slack, the #general channel has been renamed to #announcements)*
 
- 
 - **[Thursday In-Class Exercise](weekly_materials/week1/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
 
 ## <a name="week2">Week 2</a> (Sep 5/7): Research and Critical Assessment
 
 This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
 
-Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox by midnight on Monday 9/4. 
+Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox before class on Tuesday, 9/5. 
 
 - **Tuesday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
@@ -68,7 +67,7 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
 
-- **[Exercise to Prepare for Week 4](weekly_materials/week3/vsCodeIntroExercise.md)**: Instead of doing readings for next week, you'll be completing an HTML tutorial on Lynda.com. You'll need to use an HTML editor to edit the files in the tutorial. In class, I'll be using VS Code, which is a powerful editor that is both free and cross-platform. This exercise, which we'll do in class on Thursday, walks you through using it for HTML files. If you would prefer to use a different editor, that's fine, but I won't be able to provide you with as much support. 
+- **[Exercise to Prepare for Week 4](weekly_materials/week3/vsCodeIntroExercise.md)**: Instead of doing readings for next week, you'll be completing an HTML tutorial on Lynda.com. You'll need to use an HTML editor to edit the files in the tutorial. In class, I'll be using VS Code, which is a powerful editor that is both free and cross-platform. This exercise, which we'll do in class on Thursday, walks you through using it for HTML files. If you would prefer to use a different text editor, that's fine, but it will be more difficult for me to provide you with support if you run into problems with it. 
 
 ***Make sure you start on the tutorials for week 4 as early as possible; you're going to need to budget at least 4-6 hours for the sections due on Tuesday!***
 
