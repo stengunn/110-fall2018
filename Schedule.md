@@ -80,10 +80,12 @@ You should complete the Introduction and sections 1-4 of the tutorial *before* c
 
 On both Tuesday and Thursday I will spend part of the class lecturing, and then will give you time to work on sections 5-7 of the tutorial; you must have those completed by the end of class on Thursday, and you will need to complete the challenge exercise  show me or the TA your work on the "challenge" components of each section to receive credit. You should plan to bring headphones to class on both days. (If you forget, there is transcription of the audio provided on the tutorials.)
 
+- **Tuesday**: If you haven't already done the [Week 4 Prep Exercise](https://github.com/LawleyFall2017/110-fall2017/blob/master/weekly_materials/week3/vsCodeIntroExercise.md), start with that. Then move on to working on the Essential Training tutorials below. (If you have headphones, great. If you don't, turn on captioning or use the transcript.) 
+
 - **[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
   - Complete before Tuesday's class: Introduction and sections 1-4; 
   - Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
-  - Be prepared to show your work for each of the chapter challenges to the TA
+  - Before leaving class, make sure you've shown your work to the professor or the TA. 
 
 - **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* week 5, so that if there are problems you have time to correct them!
 
