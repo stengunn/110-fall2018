@@ -26,7 +26,7 @@ At the top of your blank document, type `html:5` and then press the tab key. (Do
 ![VS Code HTML 5 Document](vscode-html5.png)
 
 ## Getting Credit for This Exercise
-Before leaving class, make sure you show your professor or your TA that you've successfully downloaded the exercise files, opened the folder in VS Code, and created an HTML file. 
+Before leaving class, grab a screenshot of the VS Code window with the new HTML file in it (like the one I posted above), and post it to the [Week 3/4 exercise dropbox folder in myCourses](https://mycourses.rit.edu/d2l/lms/dropbox/user/folder_submit_files.d2l?db=1461831&grpid=0&isprv=0&bp=0&ou=658493). 
 
 ## Optional: Live Previewing Your HTML
 VS Code does not have the ability to preview your HTML file built in by default. To see how your files look while you're working on the exercises, you will need to save the file to disk, and then use File-->Open in your browser of choice to preview your HTML files. 
