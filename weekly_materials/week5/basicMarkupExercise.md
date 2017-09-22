@@ -74,7 +74,7 @@ Go back to your index.html file, and add a link at the end of that page to your 
 
 Here's an example:
 
-![Screenshot of Example Page 2][110homepage-3.png]
+![Screenshot of Example Page 2](110homepage-3.png)
 
 In your web browser, reload your index.html page, and make sure the links between your pages work properly. If they don’t, ask for help! 
 
@@ -123,7 +123,7 @@ Once your page has displayed properly, view the source in the web browser (if yo
 
 'banjo.rit.edu' uses specific server-techniques to help pages across RIT's sites load faster, but these techniques have the side effect of making pages on the server harder for us to debug and to validate.
 
-To fix this, you're going to need to copy a file from my www directory to yours via the command line. As you did on Tuesday, use PuTTY (or Terminal on a Mac) to connect to 'banjo.rit.edu', and then type the following commands:
+To fix this, you're going to need to copy a file from my www directory to yours via the command line. As you did on Tuesday, use PuTTY (or Terminal on a Mac) to connect to 'banjo.rit.edu', and then type the following commands, *exactly* as they appear here:
 
 ```
 cd www
@@ -131,7 +131,7 @@ cp ~ellics/www/.htaccess .htaccess
 chmod 644 .htaccess
 ```
 
-The first line changes directories into your www directory. The second line copies a file called .htaccess from my www directory to your www directory. And the third line changes the permissions on the .htaccess file so that the web server can read it. 
+The first line changes directories into your www directory. The second line copies a file called .htaccess from **my** www directory (ellics/www) to your current location, which is **your** www directory. And the third line changes the permissions on the .htaccess file so that the web server can read it. 
 
 Go back to Chrome, reload your index.html page, and view the source again. If it all worked properly, the block of code inserted by the server that you saw before should now be gone. 
 
