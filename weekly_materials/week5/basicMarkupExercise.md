@@ -133,7 +133,7 @@ chmod 644 .htaccess
 
 The first line changes directories into your www directory. The second line copies a file called .htaccess from **my** www directory (ellics/www) to your current location, which is **your** www directory. And the third line changes the permissions on the .htaccess file so that the web server can read it. 
 
-Go back to Chrome, reload your index.html page, and view the source again. If it all worked properly, the block of code inserted by the server that you saw before should now be gone. 
+Go back to your browser, reload your index.html page, and view the source again. If it all worked properly, the block of code inserted by the server that you saw before should now be gone. 
 
 ## Due Date
 You must have this exercise complete by noon on Saturday, September 30th. On Saturday, my TA will check to see if you completed the work by loading  `http://people.rit.edu/youruserid/igme110` and making sure that the files are present and include the requested components. 
