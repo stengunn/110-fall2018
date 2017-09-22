@@ -78,7 +78,7 @@ Under the heading, add a blockquote enclosing a quote that you particularly. Enc
 
 Below the quote, add the attribution for who said it, preceding the name with a typographic em dash (again, using the appropriate HTML entity). 
 
-It should look like this when you're done:
+In the first part of the example below, you can see what it looks like if you copy and paste text with smart quotes or other typographic niceties from a Word or PDF document (or even from a web page). In the second part, you can see how it should look if you use HTML entities. Yours should look like the second example, with properly formatted quotes. 
 
 ![Screenshot Showing HTML Entities](htmlEntities.png)
 
