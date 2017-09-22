@@ -112,7 +112,7 @@ This week you'll learn the importance of typographic choices, including font fam
 - **Tuesday Readings**
   - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
   - [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
-  - [Web Typography Mistakes](http://webdesign.about.com/od/fonts/tp/web-typography-mistakes.htm)
+  - [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
 
 - **Thursday Readings**
  - [HTML Entities](https://www.w3schools.com/html/html_entities.asp) and [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp) from W3Schools
