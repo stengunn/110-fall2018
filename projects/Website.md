@@ -11,7 +11,7 @@ The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 29th.
   - Each of the pages should have a navigation bar providing access to other pages on the site
   - Each of the pages should include at least one appropriate image (a photograph, a logo, etc).
   - You may use templates and/or code libraries from other sources, provided that they are explicitly made available for re-use, and you clearly indicate and link back to what you used on the sources page. 
-  - All pages must properly validate for both HTML and CSS. We will use the validators at `https&#58;//validator.w3.org/ and https&#58;//jigsaw.w3.org/css-validator/` to check this. 
+  - All pages must properly validate for both HTML and CSS. We will use the W3C [HTML](https://validator.w3.org) and [CSS](http://jigsaw.w3.org/css-validator/) validators to check this. 
 
 I will provide example template files for all four of the required files, as well as a basic styles.css file. You are welcome to use these as a starting point, but if you do not modify the appearance of the site in any way other than to paste in your own content, the highest grade you can receive is a “C”. 
 
