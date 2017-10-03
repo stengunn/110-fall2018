@@ -63,24 +63,37 @@ Try specifying a relative width using a percentage value (70% or 80%), and then 
 
 Google provides a number of high-quality typefaces available online for anyone to link to in their CSS. Go to http://www.google.com/fonts/ to see what’s available, and browse through the fonts. Then go to https://developers.google.com/fonts/docs/getting_started for instructions on how to incorporate these hosted typefaces into your own pages. 
 
-Identify a typeface you’d like to use for heading on your page, and update  your HTML and CSS files to use the selected typeface for your h1 and h2 elements. (Feel free to use Google fonts for other elements in the page, but you’re only required to use them for the headings.) You can either add the Google Font using a link element in your HTML document, or by using an @import rule in your CSS. 
+Identify a typeface you’d like to use for headings on your page (try looking at display fonts). Add the necessary CSS file link to your HTML, and update  your  CSS file to use the selected typeface for your h1 and h2 elements. 
 
-Here's an example of the font being added with an @import rule in the CSS, and the resulting page formatting:
-![Google Fonts Code](googleFontsCode.png)
-![Google Fonts Page](googleFontsPage.png)
 
+## Using Font Squirrel Fonts
+Google has some beautiful typefaces, but some of them are becoming a bit overused (Lobster, for example, is a display face that may be past its prime, and because Roboto ships with the popular web framework Bootstrap, it's also become somewhat predictable.)
+
+In addition to the many typefaces that you can purchase from foundries (or that come with a non-edu license for Adobe CC), you can find many lovely and free fonts at sites like [Font Squirrel](https://www.fontsquirrel.com/). Unlike Google Fonts, Font Squirrel allows you to download a typeface that you can then install and use on your computer. 
+
+In addition to the fonts hosted on (and linked from) Font Squirrel, they provide a [font generator tool](https://www.fontsquirrel.com/tools/webfont-generator) that allows you to upload a typeface from your computer and receive version that you can embed in a web page, so that you don't have to worry about availability on the target audience's computers.
+
+Be careful when embedding fonts, though, to be sure you have the right to do so; some fonts that you might have the right to use on your computer you do not have the legal right to distribute on the web! 
+
+Read the following resources from Font Squirrel before proceeding: 
+- [FAQ on Web Font Licensing](https://www.fontsquirrel.com/faq)
+- [Help on Installing Fonts](https://www.fontsquirrel.com/help)
+
+Find a body text font that you like on Font Squirrel, and make sure that it's properly licensed for web use. Download it to your computer, and then use the [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) to create the necessary files to add it to a web page. 
 
 ## Adding Character Entities 
 
 Add a level 2 heading of "Words of Wisdom" to the end of the document.
 
-Under the heading, add a blockquote enclosing a quote that you particularly. Enclose the text of the quote with opening and closing quotation marks (curly or "smart") quotes using HTML character entities.
+Under the heading, add a blockquote enclosing a quote that you particularly. Enclose the text of the quote with opening and closing quotation marks (curly or "smart") quotes using HTML character entities. (There's a list of HTML entities linked from the readings for today )
 
-Below the quote, add the attribution for who said it, preceding the name with a typographic em dash (again, using the appropriate HTML entity). 
+Below the quote, add the attribution for who said it, preceding the name with a typographic em dash (again, using the appropriate HTML entity). You can use these lists of [HTML Entities](https://www.w3schools.com/html/html_entities.asp) and [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp) from W3Schools for reference.
 
-In the first part of the example below, you can see what it looks like if you copy and paste text with smart quotes or other typographic niceties from a Word or PDF document (or even from a web page). In the second part, you can see how it should look if you use HTML entities. Yours should look like the second example, with properly formatted quotes. 
+In the top half of the sample image below, you can see what it looks like if you copy and paste text with smart quotes or other typographic niceties from a Word or PDF document (or even from a web page). In the second part, you can see how it should look if you use HTML entities. Yours should look like the second example, with properly formatted quotes. 
 
 ![Screenshot Showing HTML Entities](htmlEntities.png)
+
+(Note: If your HTML page uses UTF-8 encoding, you may not need to use HTML entities; however, especially when dealing with legacy code, you may be dealing with pages that use older type encoding.)
 
 ## Submitting Your Work 
 Use an FTP client to upload the typography directory and its contents to the igme110 directory in your www directory on Banjo. We’ll check http://people.rit.edu/~youruserid/igme110/typography/fonts.html to see if you’ve completed the exercise. Make sure you test that URL to ensure that the files appear properly and can be loaded in a browser! The file must be available at the specified URL by noon on Thursday.

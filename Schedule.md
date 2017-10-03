@@ -119,8 +119,7 @@ This week you'll learn the importance of typographic choices, including font fam
  - [Comic Sans Criminal](http://www.comicsanscriminal.com/)
  - [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
  - [Papyrus font creator reacts to viral "Avatar" skit from "Saturday Night Live"](https://www.cbsnews.com/news/papyrus-font-avatar-saturday-night-live-chris-costello-ryan-gosling-viral-video/)
- - [HTML Entities](https://www.w3schools.com/html/html_entities.asp) and [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp) from W3Schools
-
+ 
 - **[Thursday Exercise](weekly_materials/week6/typographyExercise.md)**: In this exercise you'll work with CSS for typographic formatting, learn how to add Google Fonts to your documents, and work with HTML entities. I will be out of town on Thursday, so you do not need to attend class; however, I expect the exercise to be completed no later than *noon* on Thursday.  
 
 ## <a name="week7">Week 7</a> (Oct 12): Graphic Design Concepts
