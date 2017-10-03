@@ -3,7 +3,7 @@
 ## Overview & Goals
 In today's exercise, you'll use CSS to modify the typography on an HTML page. 
 
-If you complete the exercise before the start of class on Thursday, you do not need to come to class. We will take attendance, and check the URL referenced above for anyone who isn’t in class. If the exercise is accessible and has been properly completed, you’ll get full credit for the exercise and for attendance. If it is not accessible, or was not properly completed, you’ll get no credit for attendance, and a zero on the exercise. 
+Because I will be out of town on Thursday, you do not need to attend class. However, you must complete this exercise by *noon* on Thursday. 
 
 ## Creating Your Work Files
 Create a folder called `typography` in your local copy of the igme110 folder. Using Visual Studio (or the text editor of your choice), create a new html 5 file called fonts.html and save it to the typography folder.
