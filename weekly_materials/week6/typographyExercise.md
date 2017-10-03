@@ -83,11 +83,4 @@ In the first part of the example below, you can see what it looks like if you co
 ![Screenshot Showing HTML Entities](htmlEntities.png)
 
 ## Submitting Your Work 
-Use an FTP client to upload the typography directory and its contents to the igme110 directory in your www directory on Banjo. We’ll check http://people.rit.edu/~youruserid/igme110/typography/fonts.html to see if you’ve completed the exercise. Make sure you test that URL to ensure that the files appear properly and can be loaded in a browser! 
-
-If you choose to work on this on your own, and not attend class on Thursday, your work must be completed and accessible by the start of class that day. 
-
-If you do attend class on Thursday, and are not able to complete the work before the end of class, you'll have until Saturday at noon to turn it in. 
-
-
-
+Use an FTP client to upload the typography directory and its contents to the igme110 directory in your www directory on Banjo. We’ll check http://people.rit.edu/~youruserid/igme110/typography/fonts.html to see if you’ve completed the exercise. Make sure you test that URL to ensure that the files appear properly and can be loaded in a browser! The file must be available at the specified URL by noon on Thursday.
