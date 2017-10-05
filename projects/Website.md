@@ -5,15 +5,15 @@ In this assignment, you will create a website in which you provide information f
 The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 29th. 
 
 ## Requirements
-  - The main page must be located at `http://people.rit.edu/<i>youruserid</i>/igme110/2017project/`
+  - The main page must be located at `http://people.rit.edu/youruserid/igme110/2017project/` (replace 'youruserid' with YOUR user ID!)
   - The main index.html page should include a title with the site topic and a relevant image, as well as your name and a photo of you. 
-  - There should be a minimum of three pages in addition to the main index page: one with an overview of your topic, two with selected content from your paper (formatted appropriately for the web), and one with a web-friendly version of your bibliography (including links from each entry to the original source wherever possible), as well as links to the sources of any images that you include on your site
+  - There should be a minimum of three pages in addition to the main index page: one with an overview of your topic, two with selected content from your paper (formatted appropriately for the web), and a sources page with a web-friendly version of your bibliography (including links from each entry to the original source wherever possible), as well as links to the sources of any images or code that you include on your site
   - Each of the pages should have a navigation bar providing access to other pages on the site
   - Each of the pages should include at least one appropriate image (a photograph, a logo, etc).
   - You may use templates and/or code libraries from other sources, provided that they are explicitly made available for re-use, and you clearly indicate and link back to what you used on the sources page. 
   - All pages must properly validate for both HTML and CSS. We will use the W3C [HTML](https://validator.w3.org) and [CSS](http://jigsaw.w3.org/css-validator/) validators to check this. 
-
-I will provide example template files for all four of the required files, as well as a basic styles.css file. You are welcome to use these as a starting point, but if you do not modify the appearance of the site in any way other than to paste in your own content, the highest grade you can receive is a “C”. 
+  
+ You may use external sources for templates or specific aspects of your code; however, if you do so, you ***MUST*** provide a citation to that source, both in your source code (through HTML or CSS comments) and on your sources page.
 
 ## Privacy
 If you have concerns about privacy, I can provide you with a method to restrict access to the portfolio directory so that only RIT-affiliated users can view it. See me during my office hours for information on how to implement this option. 
