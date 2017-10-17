@@ -1,7 +1,7 @@
 # Web Project Critique Exercise
 
 ## Before Class: Mockup/Prototype Preparation
-Before class on Thursday, prepare a mockup of your website. It can be a bare-bones HTML wireframe, or a paper prototype using one of the printable templates availabe here:
+Before class on Thursday, prepare a mockup of your website. It can be a bare-bones HTML wireframe, or a paper prototype using one of the printable templates available here:
 
 http://www.tripwiremagazine.com/free-printable-sketching-wireframing-templates/
 
