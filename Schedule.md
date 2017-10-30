@@ -161,9 +161,9 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
 - **Thursday Homework**
-  - [Photoshop CC 2017 Essential Training: The Basics](https://www.lynda.com/Photoshop-tutorials/Saving-documents/519289/556879-4.html?org=rit.edu) Complete sections 1-4 *before* class on Thursday. While you will not be quizzed or checked on this, Thursday's exercise depends on your having basic competency with Photoshop.
+  - Prepare either a Photoshop mockup or a first version of your web project to bring to class. 
 
-- **[Thursday Exercise](weekly_materials/week9/color-optimizationExercise.md)** : You may choose to complete this exercise on your own rather than coming to class on Thursday. If you do so, the deliverable at the end must be uploaded to banjo.rit.edu by the beginning of Thursday's class. If you come to class on Thursday, the exercise will be due at 8am on Saturday 10/28. 
+- **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
 ## <a name="week10">Week 10 (Oct 31/Nov 2): HTML & CSS Review
 On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
