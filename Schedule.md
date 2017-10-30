@@ -165,18 +165,14 @@ This week we'll talk about the underlying concepts critical to understanding dig
 
 - **[Thursday Exercise](weekly_materials/week9/color-optimizationExercise.md)** : You may choose to complete this exercise on your own rather than coming to class on Thursday. If you do so, the deliverable at the end must be uploaded to banjo.rit.edu by the beginning of Thursday's class. If you come to class on Thursday, the exercise will be due at 8am on Saturday 10/28. 
 
-## <a name="week10">Week 10 (Oct 31/Nov 2): Digital Image Applications
-On Tuesday, we'll extend our discussion of digital images, looking at various tools and techniques for image editing. On Thursday, you'll use Photoshop to do some image compositing.
+## <a name="week10">Week 10 (Oct 31/Nov 2): HTML & CSS Review
+On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
 
-- **Tuesday Readings**
-  - [Vector vs Raster: What Do I Use?](https://designshack.net/articles/layouts/vector-vs-raster-what-do-i-use/)
-  - [Adobe.com: Choosing the right design app](https://helpx.adobe.com/creative-cloud/how-to/photoshop-illustrator-indesign-overview.html)
-  - [The best free alternatives to Adobe Creative Cloud 2017](http://www.techradar.com/news/the-best-free-alternatives-to-adobe-creative-cloud)
+On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
 
-- **Thursday Homework**
-  - [Photoshop CC 2017 Essential Training: The Basics](https://www.lynda.com/Photoshop-tutorials/Saving-documents/519289/556879-4.html?org=rit.edu) Complete sections 5-9 *before* class on Thursday. You won't be quizzed or checked, but you'll need this knowledge for this week's exercise. 
-
-- **[Thursday Exercise](weekly_materials/week10/compositingExercise.md)** - This exercise will give you experience with image compositing. If you choose to work on this on your own rather than coming to class on Thursday, the deliverables must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 8am on Saturday, November 4th. 
+- **Readings**
+  - W3 Schools: [CSS Syntax](https://www.w3schools.com/cssref/css_selectors.asp), [CSS Borders](https://www.w3schools.com/css/css_border.asp), [CSS Links](https://www.w3schools.com/css/css_link.asp), [CSS Lists](https://www.w3schools.com/css/css_list.asp), and [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
+  - MDN: [Simple CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors), [Combinators and Multiple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors), [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 
 ## <a name="week11">Week 11</a> (Nov 7/9): Animation Concepts
 

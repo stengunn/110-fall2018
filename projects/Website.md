@@ -4,9 +4,11 @@ In this assignment, you will create a website in which you provide information f
 
 The site must be uploaded to banjo.rit.edu by midnight on Sunday, October 29th. 
 
+***October 30th Update: Students who attend class on Tuesday, October 31st will receive an extension on this project until 11:59pm on Friday, November 3.***
+
 ## Requirements
   - The main page must be located at `http://people.rit.edu/youruserid/igme110/2017project/` (replace 'youruserid' with YOUR user ID!)
-  - The main index.html page should include a title with the site topic and a relevant image, as well as your name and a photo of you. 
+  - The main page should be called index.html, and should include a title with the site topic and a relevant image, as well as your name and a photo of you. 
   - There should be a minimum of three pages in addition to the main index page: one with an overview of your topic, two with selected content from your paper (formatted appropriately for the web), and a sources page with a web-friendly version of your bibliography (including links from each entry to the original source wherever possible), as well as links to the sources of any images or code that you include on your site
   - Each of the pages should have a navigation bar providing access to other pages on the site
   - Each of the pages should include at least one appropriate image (a photograph, a logo, etc).
