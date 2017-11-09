@@ -30,7 +30,7 @@ Animation is a means of drawing attention and emphasis to your interfaces by lev
 
 ## Part 2: Rotoscoping a Sword Fight
 
-Download the file [shortSword.mp4](shortSword.mp4). This is Creative Commons licensed footage of a fencing demonstration. You will be rotoscoping (drawing on the video) as a form of animation.
+Download the file [shortsword.mp4](shortsword.mp4). This is Creative Commons licensed footage of a fencing demonstration. You will be rotoscoping (drawing on the video) as a form of animation.
 
 1. From the file menu in Photoshop, choose Import -> Video Frames to Layers. 
 
