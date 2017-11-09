@@ -26,8 +26,8 @@ Animation is a means of drawing attention and emphasis to your interfaces by lev
 
 11. While newly pasted-in frames are still selected, go to the Animation panel menu again and select "Reverse Frames." Now, play the animation and see how it looks--if you did this all properly, the text should scroll in from the left and fade in, then a second later scroll back left and fade out. 
 
-12. Save your changes to the PSD file, and then export it as an animated GIF and save it to a new folder called "week11". 
-
+12. Save your changes to the PSD file, and then export it as an animated GIF using the `Export->Save for Web (Legacy)` option. 
+
 ## Part 2: Rotoscoping a Sword Fight
 
 Download the file [shortsword.mp4](shortsword.mp4). This is Creative Commons licensed footage of a fencing demonstration. You will be rotoscoping (drawing on the video) as a form of animation.
@@ -62,5 +62,5 @@ Download the file [shortsword.mp4](shortsword.mp4). This is Creative Commons lic
 
 ## Exercise Deliverables
 
-Upload the week11 folder, which should contain the name.gif and the rotoscope.mp4, to your igme110 folder on banjo.rit.edu. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
+Submit both animations to the myCourses dropbox. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
 
