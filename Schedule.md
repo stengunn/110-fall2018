@@ -197,7 +197,9 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
   - [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
   - [Audacity Software Download](http://www.audacityteam.org/download/) - Only necessary if want to do the tutorial on your own computer. 
 
-- **[Thursday Exercise](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+- **[Thursday Exercise: Audio Narration](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+
+- **[Alternate Thursday Exercise: Captioning Video]((weekly_materials/week12/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
 
 
 ## <a name="week13">Week 13</a> (Nov 21): Presentation Skills
