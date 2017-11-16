@@ -17,7 +17,7 @@ You will need to produce captions for an ~80-second video generated from a five-
 ## Uploading to YouTube and Creating Subtitles/Captions
 We're going to use YouTube's built-in tools to help with captioning of videos. 
 
-1. Log into YouTube and upload the .mp4 file that you created from your presentation. Make sure you set the visibility to private, so that we'll be able to grade it. ([YouTube video uploading instructions](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en))
+1. Log into YouTube and upload the .mp4 file that you created from your presentation. Make sure you set the visibility to unlisted, so that we'll be able to grade it. ([YouTube video uploading instructions](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en))
 
 2. Once the upload has completed, click on the "Video Manager" link at the bottom of the screen. (You can also get to this page by clicking on your account icon in the top right corner of the screen and choosing "Creator Studio", and clicking the "Edit" button next to the video.)
 
