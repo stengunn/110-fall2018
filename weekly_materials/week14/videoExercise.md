@@ -18,7 +18,7 @@ Your video must meet the following requirements:
 When you've completed the video editing, use "Export -> Render Video" to save the video using the H.264 codec. Use the HDTV preset (1280x720) at high quality. Upload your completed video file to YouTube. If you used copyrighted materials, or would prefer that the video not be visible to others, you should upload it as an "unlisted" video--not as a "private" video, because then we can't grade it. (Once you've received your grade for the assignment, you are welcome to delete the video if you'd like.)
 
 # Submitting Your Work
-Provide the YouTube URL for the video via the "Week 14 Video Exercise" quiz in myCourses.  
+Post the YouTube URL for the video in the [#week14videos](https://lawley-110-2017.slack.com/messages/C86R8V2PJ) channel in the class Slack.  
 
 If you choose to work on this on your own rather than coming to class on Thursday, you must submit the URL  by the beginning of Thursday's class. If you come to class on Thursday, you must submit the URL by 6pm on Saturday, December 2nd.
 
