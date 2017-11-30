@@ -15,6 +15,10 @@ Your video must meet the following requirements:
 6.	End with a closing credits screen that shows your name as well as credits for any assets used in the video.
 7.	Have a total length of at least 30 seconds and no more than 60 seconds.
 
+Here are some sources for free, downloadable videos to use in your work:
+- [Pexels](https://videos.pexels.com/video-license)
+- [The Internet Archive](https://archive.org/details/movies)
+
 When you've completed the video editing, use "Export -> Render Video" to save the video using the H.264 codec. Use the HDTV preset (1280x720) at high quality. Upload your completed video file to YouTube. If you used copyrighted materials, or would prefer that the video not be visible to others, you should upload it as an "unlisted" video--not as a "private" video, because then we can't grade it. (Once you've received your grade for the assignment, you are welcome to delete the video if you'd like.)
 
 # Submitting Your Work
