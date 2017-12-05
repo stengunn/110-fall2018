@@ -221,6 +221,8 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
 
 ## <a name="week15">Week 15</a> (Dec 5/7): Responsible Social Media Use
 
+- **[Tuesday Exercise](weekly_materials/week15/onlinePresence.md)**
+
 - **Thursday Readings**
   - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
   - [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) (53m)
