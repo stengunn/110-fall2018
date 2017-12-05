@@ -220,3 +220,8 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
 - **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
 
 ## <a name="week15">Week 15</a> (Dec 5/7): Responsible Social Media Use
+
+- **Thursday Readings**
+  - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
+  - [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) (53m)
+
