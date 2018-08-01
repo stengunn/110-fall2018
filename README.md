@@ -2,14 +2,14 @@
 
 ## Instructor and Class Details
 - Professor Elizabeth Lawley  
-  - Office: GOL-2545
+  - Office: 2545 Golisano Hall
   - Email: Elizabeth.Lawley@rit.edu
-  - Office hours: T/Th 10am-12pm 
+  - Office hours: Wednesday 1-5pm 
 - TA Emily Turner
   - Email: ekt6170 at rit dot edu
   - Lab Hours: TBA
-- Class Slack: https://lawley-110-2017.slack.com/
-- Class Time/Location: Tuesdays & Thursdays, 8-9:20am, 1370 Orange Hall
+- Class Slack: https://lawley-110-2018.slack.com/
+- Class Time/Location: Tuesdays & Thursdays, 3:30-4:45pm, 2435 Golisano Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -18,14 +18,12 @@ This course provides an overview of media in historical, current and future cont
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
-I will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
-
 We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
 MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
 ## Course Organization
-Listening to a lecture is seldom the best way to learn. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
+Listening to a lecture is seldom the best way to learn a topic. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials *before* the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
 
 ## [Course Topics & Schedule](Schedule.md)
 The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the Github folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week. 
@@ -37,16 +35,16 @@ Because much of the class revolves around in-class exercises, attendance is crit
 These are brief descriptions of each of the assignments. Follow the links to see more detailed information. 
 
 ### Exercises & Homework (20% of final grade)
-At least once a week there will be an in-class exercise, which will be due by the end of the class time. I will also occasionally assign homework in addition to the exercise. Exercises and homework will be always be uploaded to myCourses, with information on their required submission date and time. If a class will have no lecture content, I will inform you of that, and allow you to submit the exercise early instead of attending class. 
+At least once a week there will be an in-class exercise. I will also occasionally assign homework in addition to the exercise. 
 
 ### [Research Paper (20% of final grade)](projects/Paper.md)
-For this paper, you will select a person, event, or technology related to the Internet or media—ideally, one that is important to you. You will write a 5-7 page paper on this topic, and will need to cite a variety of sources—so be sure to select a topic on which you can find sufficient resources. 
+For your research paper, you will need to select a topic related to interactive media, identify or formulate an argument about it, and find (and properly cite) supporting evidence for your argument. 
 
 ### [Web Site (20% of final grade)](projects/Website.md)
-You will create a website to present key information you learned while researching your paper topic.  
+To demonstrate your understand of basic web development, you will create a website that provides access to information related to your paper topic.  
 
 ### [Presentation (20% of final grade)](projects/Presentation.md)
-You will prepare a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a file with an accompanying audio narration. 
+Instead of a final exam, you will create a slide presentation with 20 slides, each of which auto-advances after 15 seconds. Each of the twenty slides should be used to present something that you learned in this class. You will have the option to either present this live during finals week, or to submit it as a video file with an accompanying audio narration. 
 
 ### Quizzes (10% of final grade)
 I will give at least one quiz each week, with content drawn from that week’s readings. You are allowed to bring a sheet of (handwritten) notes with you to class to use while taking the quiz. The quizzes will also serve as an attendance-taking mechanism.  There are 15 weeks of lecture, but at the end of the semester I will drop your lowest five quiz grades, so only the top ten quizzes will count. I do not give makeup quizzes; if you miss a quiz, even for an excused absence, it will count as one of your dropped grades.
@@ -57,12 +55,12 @@ You will be assigned to a group for collaborative note-taking during the semeste
 ## Additional Policies
 
 ### Important RIT Deadlines
-- Last day of add/drop is 5 September 2017.
-- Last day to withdraw with a grade of “W” is 10 November 2017.
+- Last day of add/drop is 4 September 2018.
+- Last day to withdraw with a grade of “W” is 9 November 2017.
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, Elizabeth.Lawley@rit.edu. 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
 ### Missed Classes
