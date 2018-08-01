@@ -23,17 +23,17 @@ Here are some resources that may be helpful as you work on your paper:
 
 ## Deliverables
 
-### Topic Idea: Due before class on Tuesday, September 5th
-A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned in by 11:59pm on Monday 9/4. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback by Thursday 9/6. 
+### Topic Idea: Due by 8am on Tuesday, September 4th
+A very basic statement of your topic and a brief description or outline of your approach to the paper need to be turned in by 8am om Tuesday, 9/4. This is not a graded assignment, but if you do not turn it in, you'll lose 15% off your final paper grade. I will review your topic to be sure that it's appropriate and manageable, and will provide feedback by Thursday 9/6. 
 
-### First Draft: Uploaded to Google Drive by 8am on Wednesday, September 13th 
-By 8am Wednesday 9/13, put a copy of your first draft in your group's Google Docs folder. At a *minimum*, the draft should include an introductory paragraph, and a full outline of your intended content. The more you include, however, the more useful the feedback you get will be. You must review and comment on all of your group members' drafts before Friday afternoon. This is a good way to see examples of other students' approaches to the assignment, as well as to get peer feedback before turning in your final paper. Again, while the assignment will not be graded, if you don't upload a draft **and** participate in the peer review  you'll lose 15% of your final paper grade.
+### First Draft: Uploaded to Google Drive by 8am on Wednesday, September 12th 
+By 8am Wednesday 9/12, put a copy of your first draft in your group's Google Docs folder. At a *minimum*, the draft should include an introductory paragraph, and a full outline of your intended content. The more you include, however, the more useful the feedback you get will be. You must review and comment on all of your group members' drafts before Friday afternoon. This is a good way to see examples of other students' approaches to the assignment, as well as to get peer feedback before turning in your final paper. Again, while the assignment will not be graded, if you don't upload a draft **and** participate in the peer review  you'll lose 15% of your final paper grade.
 
-### Second Draft (optional): Due by 8am on Sunday, September 17th
-If you would like feedback from me on your draft, incorporate the feedback received from your group and submit a revised draft to the Paper Draft dropbox in myCourses by 8am on Sunday (9/17). (I will check Google Docs for evidence that you have incorporated your group's feedback.) If you submit a draft, I will provide feedback by 8am on Tuesday, 9/19). 
+### Second Draft (optional): Due by 8am on Sunday, September 16th
+If you would like feedback from me on your draft, incorporate the feedback received from your group and submit a revised draft to the Paper Draft dropbox in myCourses by 8am on Sunday (9/16). (I will check Google Docs for evidence that you have incorporated your group's feedback.) If you submit a draft, I will provide feedback by 8am on Tuesday, 9/19). 
 
-### Final Paper: Due before midnight on Sunday, September 24th 
-The final version of your paper is due by midnight on Sunday 9/24. Upload an electronic copy of the paper in the myCourses  dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.  
+### Final Paper: Due before midnight on Sunday, September 23rd 
+The final version of your paper is due by midnight on Sunday 9/23. Upload an electronic copy of the paper in the myCourses  dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.  
 
 Here are the content and formatting requirements for the paper: 
   	
