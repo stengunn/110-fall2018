@@ -14,9 +14,9 @@ The highly-constrained Ignite format (20 slides, each displayed for only 15 seco
 Your slides should focus on images and storytelling, not blocks of text or bullet points. Provide a title and show an image (or animation, or video clip) relevant for the concept You can include text, but it should be minimal—any explanatory text should go either in the notes for the slide, or in your narration. 
 
 ## Submitting and Presenting Your Presentation
-Your presentation must be submitted to the dropbox in myCourses by 11:59pm on Sunday, December 17th.
+Your presentation must be submitted to the dropbox in myCourses at least 24 hours before our final exam time. 
 
-If you plan to present in person during finals week, only the slides need to be submitted. I will load the presentations on my computer, so that there is no setup delay between presenters. 
+If you plan to present in person during finals week, only your slides need to be submitted. I will load the presentations on my computer, so that there is no setup delay between presenters. 
 
 If you will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration. If you submit a narrated version, the auto-advance timings *must* still work properly, and the sound must be clear and properly synchronized. (That's harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you're sure it will work on mine.) 
 
