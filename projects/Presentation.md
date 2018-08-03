@@ -19,3 +19,28 @@ Your presentation must be submitted to the dropbox in myCourses by 11:59pm on Su
 If you plan to present in person during finals week, only the slides need to be submitted. I will load the presentations on my computer, so that there is no setup delay between presenters. 
 
 If you will not be presenting in person, you must either (a) attach your narration to the slides in PowerPoint so that it plays while the slides auto-advance, or (b) create a video incorporating the slides and your narration. If you submit a narrated version, the auto-advance timings *must* still work properly, and the sound must be clear and properly synchronized. (That's harder than it sounds, and I strongly suggest asking someone else to test it for you on their computer so that you're sure it will work on mine.) 
+
+## Grading Rubric
+
+Weekly Topics | 1 point | 0.5 points | 0 points 
+------------- | ------- | ---------- | ---------
+Week 1: Comm & Attn	| | |
+Week 2: Research	| | |
+Week 3: Legal	| | |
+Week 4: HTML/CSS	| | |
+Week 5: UNIX/FTP/Web Publishing	| | |
+Week 6: Typography & CSS	| | |
+Week 7: Graphic Design	| | |
+Week 8: CSS Box Model/Layout	| | |
+Week 9: Image Concepts	| | |
+Week 10: CSS Revisited	| | |
+Week 11: Animation	| | |
+Week 12: Audio	| | |
+Week 13: Presentations	| | |
+Week 14: Video	| | |
+Week 15: Social Media	| | |
+Audio smooth & well-paced	| | |
+Auto-advance works properly	| | |
+Good slide design	| | |
+Consistent slide design	| | |
+Coherent narrative	| | |
