@@ -44,3 +44,4 @@ Auto-advance works properly	| | |
 Good slide design	| | |
 Consistent slide design	| | |
 Coherent narrative	| | |
+Total | __/20
