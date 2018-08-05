@@ -1,4 +1,4 @@
-# IGME-110 Introduction to Interactive Media, Fall 2017: Syllabus
+# IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
 
 ## Instructor and Class Details
 - Professor Elizabeth Lawley  
