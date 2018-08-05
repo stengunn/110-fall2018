@@ -1,24 +1,24 @@
-# IGME-110 Introduction to Interactive Media, Fall 2017: Schedule of Topics
+# IGME-110 Introduction to Interactive Media, Fall 2018: Schedule of Topics
 
 ## Contents
-- [Week 1 (Aug 29/31): Course Overview & Communication](#week1)
-- [Week 2 (Sep 5/7): Research & Critical Assessment](#week2)
-- [Week 3 (Sep 12/14): Legal Issues for Media Creators](#week3)
-- [Week 4 (Sep 19/21): Basic HTML & CSS](#week4)
-- [Week 5 (Sep 26/28): UNIX, FTP, and Web Publishing](#week5)
-- [Week 6 (Oct 3/5): Typography & CSS](#week6)
-- [Week 7 (Oct 12): Graphic Design Concepts](#week7)
-- [Week 8 (Oct 17/19): CSS Box Model & Web Layout](#week8)
-- [Week 9 (Oct 24/26): Digital Image Concepts](#week9)
-- [Week 10 (Oct 31/Nov 2): Digital Image Applications](#week10)
-- [Week 11 (Nov 7/9): Animation Concepts](#week11)
-- [Week 12 (Nov 14/16): Digital Audio Concepts](#week12)
-- [Week 13 (Nov 21): Presentation Skills](#week13)
-- [Week 14 (Nov 28/30): Digital Video Concepts](#week14)
-- [Week 15 (Dec 5/7): Responsible Social Media Use](#week15)
+- [Week 1 (Aug 28/30): Course Overview & Communication](#week1)
+- [Week 2 (Sep 4/6): Research & Critical Assessment](#week2)
+- [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
+- [Week 4 (Sep 18/20): Basic HTML & CSS](#week4)
+- [Week 5 (Sep 25/27): UNIX, FTP, and Web Publishing](#week5)
+- [Week 6 (Oct 2/4): Typography & CSS](#week6)
+- [Week 7 (Oct 11): Graphic Design Concepts](#week7)
+- [Week 8 (Oct 16/18): CSS Box Model & Web Layout](#week8)
+- [Week 9 (Oct 23/25): Digital Image Concepts](#week9)
+- [Week 10 (Oct 30/Nov 1): Digital Image Applications](#week10)
+- [Week 11 (Nov 6/8): Animation Concepts](#week11)
+- [Week 12 (Nov 13/15): Digital Audio Concepts](#week12)
+- [Week 13 (Nov 20): Presentation Skills](#week13)
+- [Week 14 (Nov 27/29): Digital Video Concepts](#week14)
+- [Week 15 (Dec 4/6): Responsible Social Media Use](#week15)
 - [Finals Week (Date TBD): Final Presentations](projects/Presentation.md)
 
-## <a name="week1">Week 1</a> (Aug 29/31): Course Overview & Communication Tools
+## <a name="week1">Week 1</a> (Aug 28/30): Course Overview & Communication Tools
 On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
 
 - **Tuesday Readings**
@@ -32,7 +32,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 
 - **[Thursday In-Class Exercise](weekly_materials/week1/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
 
-## <a name="week2">Week 2</a> (Sep 5/7): Research and Critical Assessment
+## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
 This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
 
@@ -51,7 +51,7 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 - **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
 
 
-## <a name="week3">Week 3</a> (Sep 12/14): Legal Issues for Media Creators
+## <a name="week3">Week 3</a> (Sep 11/13): Legal Issues for Media Creators
 As a creative professional, you need to be familiar with the laws governing the use of creative works--that includes not just copyright, but also trademark and patent laws. It's also important for you to be familiar with how employment and freelance contracts impact your ownership and use of your own creative work. 
 
 - **Tuesday Readings**
@@ -72,7 +72,7 @@ As a creative professional, you need to be familiar with the laws governing the 
 ***Make sure you start on the tutorials for week 4 as early as possible; you're going to need to budget at least 4-6 hours for the sections due on Tuesday!***
 
 
-## <a name="week4">Week 4</a> (Sep 19/21): Basic HTML & CSS</a>
+## <a name="week4">Week 4</a> (Sep 18/20): Basic HTML & CSS</a>
 
 This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your practical learning will come from the HTML Essential Training tutorial on Lynda.com. 
 
@@ -89,7 +89,7 @@ On both Tuesday and Thursday I will spend part of the class lecturing, and then 
 
 - **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* week 5, so that if there are problems you have time to correct them!
 
-## <a name="week5">Week 5</a> (Sep 26/28): UNIX, FTP, and Web Publishing
+## <a name="week5">Week 5</a> (Sep 25/27): UNIX, FTP, and Web Publishing
 
 Now that you've learned how to create HTML pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
 
@@ -106,7 +106,7 @@ Now that you've learned how to create HTML pages, you need to learn how to publi
 - **[Thursday Exercise](weekly_materials/week5/basicMarkupExercise.md)**: In this exercise you'll create some basic HTML files, and then use an FTP client to upload HTML files to the RIT server. 
 
 
-## <a name="week6">Week 6</a> (Oct 3/5): Typography & CSS
+## <a name="week6">Week 6</a> (Oct 2/4): Typography & CSS
 This week you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages, and learn how to use HTML entities . 
 
 - **Tuesday Readings**
@@ -122,7 +122,7 @@ This week you'll learn the importance of typographic choices, including font fam
  
 - **[Thursday Exercise](weekly_materials/week6/typographyExercise.md)**: In this exercise you'll work with CSS for typographic formatting, learn how to add Google Fonts to your documents, and work with HTML entities. I will be out of town on Thursday, so you do not need to attend class; however, I expect the exercise to be completed no later than *noon* on Thursday.  
 
-## <a name="week7">Week 7</a> (Oct 12): Graphic Design Concepts
+## <a name="week7">Week 7</a> (Oct 11): Graphic Design Concepts
 
 We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts. Please make sure you've completed the readings before class!
 
@@ -133,7 +133,7 @@ We will not have class on Tuesday of this week, because it is a reading day. On 
 
 - **[Thursday Exercise](weekly_materials/week7/designCritiqueExercise.md)**
 
-## <a name="week8">Week 8</a> (Oct 17/19): Web Design and Layout Using CSS
+## <a name="week8">Week 8</a> (Oct 16/18): Web Design and Layout Using CSS
 This week you'll learn how to implement graphic design concepts, particularly grid-based layout, on web pages using CSS. 
 
 - **Tuesday Readings**
@@ -151,7 +151,7 @@ This week you'll learn how to implement graphic design concepts, particularly gr
 
 - **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
-## <a name="week9">Week 9</a> (Oct 24/26): Digital Image Concepts
+## <a name="week9">Week 9</a> (Oct 23/25): Digital Image Concepts
 This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself. 
 
 - **Tuesday Readings**
@@ -165,7 +165,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
 
 - **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
-## <a name="week10">Week 10 (Oct 31/Nov 2): HTML & CSS Review
+## <a name="week10">Week 10 (Oct 30/Nov 1): HTML & CSS Review
 On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
 
 On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
@@ -174,7 +174,7 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
   - W3 Schools: [CSS Syntax](https://www.w3schools.com/cssref/css_selectors.asp), [CSS Borders](https://www.w3schools.com/css/css_border.asp), [CSS Links](https://www.w3schools.com/css/css_link.asp), [CSS Lists](https://www.w3schools.com/css/css_list.asp), and [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
   - MDN: [Simple CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors), [Combinators and Multiple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors), [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 
-## <a name="week11">Week 11</a> (Nov 7/9): Animation Concepts
+## <a name="week11">Week 11</a> (Nov 6/8): Animation Concepts
 
 - **Tuesday Readings**
   - [12 Principles of Animation](http://minyos.its.rmit.edu.au/aim/a_notes/anim_principles.html)
@@ -186,7 +186,7 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
 
 - **[Thursday Exercise](weekly_materials/week11/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
 
-## <a name="week12">Week 12</a> (Nov 14/16): Digital Audio Concepts
+## <a name="week12">Week 12</a> (Nov 13/15): Digital Audio Concepts
 
 - **Tuesday Readings**
   - [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
@@ -202,7 +202,7 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
 - **[Alternate Thursday Exercise: Captioning Video](weekly_materials/week12/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
 
 
-## <a name="week13">Week 13</a> (Nov 21): Presentation Skills
+## <a name="week13">Week 13</a> (Nov 20): Presentation Skills
 This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
 
 - **Readings**
@@ -219,7 +219,7 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
 
 - **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
 
-## <a name="week15">Week 15</a> (Dec 5/7): Responsible Social Media Use
+## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
 
 - **[Tuesday Exercise](weekly_materials/week15/onlinePresence.md)**
 
