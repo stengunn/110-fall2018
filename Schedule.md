@@ -6,8 +6,8 @@
 - [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
 - [Week 4 (Sep 18/20): Understanding the Web](#week4)
 - [Week 5 (Sep 25/27): Internet & Web Infrastructure](#week5)
-- [Week 6 (Oct 2/4): Typography & CSS](#week6)
-- [Week 7 (Oct 11): Introduction to Design](#week7)
+- [Week 6 (Oct 2/4): Introduction to Design](#week6)
+- [Week 7 (Oct 11): Digital Typography](#week7)
 - [Week 8 (Oct 16/18): Web Page & Site Design](#week8)
 - [Week 9 (Oct 23/25): Digital Image Concepts](#week9)
 - [Week 10 (Oct 30/Nov 1): TBD](#week10)
@@ -24,13 +24,13 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 - **Tuesday Readings**
   - [Course Syllabus](README.md)
 
-- **[Tuesday Homework](weekly_materials/week1/commHomework.md)**: Set up your Slack account, add a photo and a post to the #introductions channel, and send an email with your Slack username to the professor and the TA.  
+- **[Tuesday Homework](exercises/commHomework/commHomework.md)**: Set up your Slack account, add a photo and a post to the #introductions channel, and send an email with your Slack username to the professor and the TA.  
 
 - **<a name="w1-th-readings">Thursday Readings</a>**
    - [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087)
    - Slack Guides: [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) and [Getting Started for New Users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) *(Note: In our class Slack, the #general channel has been renamed to #announcements)*
 
-- **[Thursday In-Class Exercise](weekly_materials/week1/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
+- **[Thursday In-Class Exercise](exercises/commExercise/commExercise.md)**: Hands-on practice with both Google Docs and Slack. 
 
 ## <a name="week2">Week 2</a> (Sep 4/6): Research and Critical Assessment
 
@@ -43,12 +43,12 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
   - [The rise of 'fake news', manipulation and 'alternative facts' - BBC Newsnight, Feb 2017 (4m17s video)](https://www.youtube.com/watch?v=1aTApGWVGoI)
   - [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean) (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
-- **[Tuesday Exercise](weekly_materials/week2/infoEvalExercise.md)**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
+- **[Tuesday Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**: In class, you'll complete an online exercise and then we'll discuss it as a group.  
 
 - **Thursday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
-- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
+- **[Thursday Exercise/Homework](exercises/biblioExercise/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
 
 
 ## <a name="week3">Week 3</a> (Sep 11/13): Legal Issues for Media Creators
@@ -79,7 +79,7 @@ This week we'll talk about how the web differs from print media, and you'll lear
 
 - **Thursday Exercise**
 - 
-- **[Homework Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
+- **[Homework Exercise to Prepare for Week 5](exercises/unixHomework/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
 ## <a name="week5">Week 5</a> (Sep 25/27): Internet & Web Infrastructure
 
@@ -89,41 +89,37 @@ Once you've created web pages, how do you publish them?  We'll talk about how th
   - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
   - [Introduction to PuTTY, Chapter 1](https://www.ssh.com/ssh/putty/putty-manuals/0.68/Chapter1.html) 
 
-- **[Tuesday Exercise](weekly_materials/week5/110-Fall-2017-Unix-Exercise.pdf)** In this exercise, you'll develop familiarity with the UNIX command line environment by logging into RIT's banjo.rit.edu server and executing a number of UNIX commands. 
+- **[Tuesday Exercise](exercises/unixExercise/110-Fall-2017-Unix-Exercise.pdf)** In this exercise, you'll develop familiarity with the UNIX command line environment by logging into RIT's banjo.rit.edu server and executing a number of UNIX commands. 
 
 - **Thursday Readings**
   - [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
   - [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 
-- **[Thursday Exercise](weekly_materials/week5/basicMarkupExercise.md)**: In this exercise you'll create some basic HTML files, and then use an FTP client to upload HTML files to the RIT server. 
+- **[Thursday Exercise](exercises/markupExercise/basicMarkupExercise.md)**: In this exercise you'll create some basic HTML files, and then use an FTP client to upload HTML files to the RIT server. 
 
 
-## <a name="week6">Week 6</a> (Oct 2/4): Typography & CSS
-This week you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages, and learn how to use HTML entities . 
+## <a name="week6">Week 6</a> (Oct 2/4): Understanding Design
+Design doesn't just mean graphics and visual aesthetics. On Tuesday we'll talk about the different types of design for interactive media, as well as discussing design as a process.  On Thursday, we'll focus on visual design concepts for the web. 
 
-- **Tuesday Readings**
-  - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
-  - [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
-  - [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
-
+- **[Thursday Exercise: Design Critique](exercises/critiqueExercise/designCritiqueExercise.md)**
 
 - **Thursday Readings**
-  - [Comic Sans Criminal](http://www.comicsanscriminal.com/)
-  - [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
-  - [Papyrus font creator reacts to viral "Avatar" skit from "Saturday Night Live"](https://www.cbsnews.com/news/papyrus-font-avatar-saturday-night-live-chris-costello-ryan-gosling-viral-video/)
- 
-- **[Thursday Exercise](weekly_materials/week6/typographyExercise.md)**: In this exercise you'll work with CSS for typographic formatting, learn how to add Google Fonts to your documents, and work with HTML entities. I will be out of town on Thursday, so you do not need to attend class; however, I expect the exercise to be completed no later than *noon* on Thursday.  
-
-## <a name="week7">Week 7</a> (Oct 11): Graphic Design Concepts
-
-We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts, particularly in the context of the web. Please make sure you've completed the readings before class!
-
-- **Thursday Readings**
-  - [Lynda.com: Introduction to Graphic Design, Section 1-3](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
   - [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
   - [A Simple Web Developer's Color Guide](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 
-- **[Thursday Exercise](weekly_materials/week7/designCritiqueExercise.md)**
+
+## <a name="week7">Week 7</a> (Oct 11): Digital Typography
+We will not have class on Tuesday of this week, because it is a reading day. On Thursday, you'll learn the importance of typographic choices, including font families and formatting. You'll also work with CSS to implement typographic formatting on web pages. 
+
+- **Readings**
+  - [A Crash Course in Typography](https://www.noupe.com/essentials/icons-fonts/a-crash-course-in-typography-the-basics-of-type.html)
+  - [A Guide to Web Typography](http://ilovetypography.com/2008/02/28/a-guide-to-web-typography/)
+  - [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
+  - [Comic Sans Criminal](http://www.comicsanscriminal.com/)
+  - [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
+ 
+ 
+- **[Typography Exercise](exercises/typographyExercise/typographyExercise.md)**: In this exercise you'll work with CSS for typographic formatting, learn how to add Google Fonts to your documents, and work with HTML entities. I will be out of town on Thursday, so you do not need to attend class; however, I expect the exercise to be completed no later than *noon* on Thursday. 
 
 ## <a name="week8">Week 8</a> (Oct 16/18): Web Design and Layout Using CSS
 This week you'll learn how to implement graphic design concepts, particularly grid-based layout, on web pages using CSS. 
@@ -139,9 +135,9 @@ This week you'll learn how to implement graphic design concepts, particularly gr
     - [CSS Layout: Inline Block](https://www.w3schools.com/css/css_inline-block.asp)
     - [CSS Layout: Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
 
-- **[Tuesday Exercise](weekly_materials/week8/cssPositioningExercise.md)**
+- **[Tuesday Exercise](exercises/positioningExercise/cssPositioningExercise.md)**
 
-- **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
+- **[Thursday Exercise](exercises/peerCritiqueExercise/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Oct 23/25): Digital Image Concepts
 This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself. 
@@ -170,7 +166,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [Adobe.com: Video and Animation Overview](https://helpx.adobe.com/photoshop/using/video-animation-overview.html)
   - [Adobe.com: Creating Frame Animations](http://helpx.adobe.com/photoshop/using/creating-frame-animations.html)
 
-- **[Thursday Exercise](weekly_materials/week11/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
+- **[Thursday Exercise](exercises/animationExercise/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
 
 ## <a name="week12">Week 12</a> (Nov 13/15): Digital Audio Concepts
 
@@ -183,9 +179,9 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
   - [Audacity Software Download](http://www.audacityteam.org/download/) - Only necessary if want to do the tutorial on your own computer. 
 
-- **[Thursday Exercise: Audio Narration](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+- **[Thursday Exercise: Audio Narration](exercise/audioExercise/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
 
-- **[Alternate Thursday Exercise: Captioning Video](weekly_materials/week12/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+- **[Alternate Thursday Exercise: Captioning Video](exercise/captioningExercise/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
 
 
 ## <a name="week13">Week 13</a> (Nov 20): Presentation Skills
@@ -203,11 +199,11 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
   - [Adobe.com: Video Editing Basics](https://helpx.adobe.com/photoshop/how-to/video-editing.html)
   - [Lynda.com: Photoshop CC 2017 One-on-One: Section 37 (Editing Videos)](https://www.lynda.com/Photoshop-tutorials/Why-edit-video-Photoshop/497777/635164-4.html?org=rit.edu)
 
-- **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
+- **[Thursday Exercise](exercise/videoExercise/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
 
 ## <a name="week15">Week 15</a> (Dec 4/6): Responsible Social Media Use
 
-- **[Tuesday Exercise](weekly_materials/week15/onlinePresence.md)**
+- **[Tuesday Exercise](exercises/socialMediaExercise/onlinePresence.md)**
 
 - **Thursday Readings**
   - [danah boyd Keynote Speech, DML 2017: "Learning All The Wrong Things"](https://youtu.be/WWrD9wSsn3c?t=10m31s) (video is 1h22m; the actual talk is 40 minutes long, the rest is optional q&a)
