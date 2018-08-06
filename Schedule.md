@@ -4,13 +4,13 @@
 - [Week 1 (Aug 28/30): Course Overview & Communication](#week1)
 - [Week 2 (Sep 4/6): Research & Critical Assessment](#week2)
 - [Week 3 (Sep 11/13): Legal Issues for Media Creators](#week3)
-- [Week 4 (Sep 18/20): Basic HTML & CSS](#week4)
-- [Week 5 (Sep 25/27): UNIX, FTP, and Web Publishing](#week5)
+- [Week 4 (Sep 18/20): Understanding the Web](#week4)
+- [Week 5 (Sep 25/27): Internet & Web Infrastructure](#week5)
 - [Week 6 (Oct 2/4): Typography & CSS](#week6)
-- [Week 7 (Oct 11): Graphic Design Concepts](#week7)
-- [Week 8 (Oct 16/18): CSS Box Model & Web Layout](#week8)
+- [Week 7 (Oct 11): Introduction to Design](#week7)
+- [Week 8 (Oct 16/18): Web Page & Site Design](#week8)
 - [Week 9 (Oct 23/25): Digital Image Concepts](#week9)
-- [Week 10 (Oct 30/Nov 1): Digital Image Applications](#week10)
+- [Week 10 (Oct 30/Nov 1): TBD](#week10)
 - [Week 11 (Nov 6/8): Animation Concepts](#week11)
 - [Week 12 (Nov 13/15): Digital Audio Concepts](#week12)
 - [Week 13 (Nov 20): Presentation Skills](#week13)
@@ -67,31 +67,23 @@ As a creative professional, you need to be familiar with the laws governing the 
   - [Joel Spolsky's Quora answer to "If I'm working at a company, do they have intellectual property rights to the stuff I do in my spare time?"](http://www.brightjourney.com/q/working-company-intellectual-property-rights-stuff-spare-time#a-20136)
 
 
-- **[Exercise to Prepare for Week 4](weekly_materials/week3/vsCodeIntroExercise.md)**: Instead of doing readings for next week, you'll be completing an HTML tutorial on Lynda.com. You'll need to use an HTML editor to edit the files in the tutorial. In class, I'll be using VS Code, which is a powerful editor that is both free and cross-platform. This exercise, which we'll do in class on Thursday, walks you through using it for HTML files. If you would prefer to use a different text editor, that's fine, but it will be more difficult for me to provide you with support if you run into problems with it. 
+## <a name="week4">Week 4</a> (Sep 18/20): Understanding the Web</a>
 
-***Make sure you start on the tutorials for week 4 as early as possible; you're going to need to budget at least 4-6 hours for the sections due on Tuesday!***
+This week we'll talk about how the web differs from print media, and you'll learn how to create basic web pages using HTML and CSS. 
 
+- **Tuesday Readings**
 
-## <a name="week4">Week 4</a> (Sep 18/20): Basic HTML & CSS</a>
+- **Tuesday Exercise**
+  
+- **Thursday Readings**
 
-This week you'll learn how to create basic web pages, using HTML and CSS. In class, I'll provide an overview of how these technologies work, but most of your practical learning will come from the HTML Essential Training tutorial on Lynda.com. 
+- **Thursday Exercise**
+- 
+- **[Homework Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* next week, so that if there are problems you have time to correct them!
 
-You should complete the Introduction and sections 1-4 of the tutorial *before* class on Tuesday; the quiz that day will be based on those sections. To complete the tutorials, you will need to use an editor that can create HTML files. If you already have a preferred editor, you're welcome to use it. If not, I highly recommend [Visual Studio Code](https://code.visualstudio.com/), which is free, cross-platform, and optimized for web development. It's what I'll use when demonstrating things in class, and in the in-class exercises. *(Note: You do not need to complete the challenge exercises in sections 3 and 4, but you should be familiar with the concepts they cover.)*
+## <a name="week5">Week 5</a> (Sep 25/27): Internet & Web Infrastructure
 
-On both Tuesday and Thursday I will spend part of the class lecturing, and then will give you time to work on sections 5-7 of the tutorial; you must have those completed by the end of class on Thursday, and you will need to complete the challenge exercise  show me or the TA your work on the "challenge" components of each section to receive credit. You should plan to bring headphones to class on both days. (If you forget, there is transcription of the audio provided on the tutorials.)
-
-- **Tuesday**: If you haven't already done the [Week 4 Prep Exercise](https://github.com/LawleyFall2017/110-fall2017/blob/master/weekly_materials/week3/vsCodeIntroExercise.md), start with that. Then move on to working on the Essential Training tutorials below. (If you have headphones, great. If you don't, turn on captioning or use the transcript.) 
-
-- **[Lynda.com HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu)**
-  - Complete before Tuesday's class: Introduction and sections 1-4; 
-  - Complete by the end of Thursday's class: Sections 5-7 (bring headphones to class!)
-  - Before leaving class, make sure you've shown your work to the professor or the TA. 
-
-- **[Exercise to Prepare for Week 5](weekly_materials/week4/unixHomework.md)**: During week 5, you'll be publishing web pages to RIT's web server. This exercise will help you to determine if your RIT web account was properly configured.  Make sure to do this exercise *before* week 5, so that if there are problems you have time to correct them!
-
-## <a name="week5">Week 5</a> (Sep 25/27): UNIX, FTP, and Web Publishing
-
-Now that you've learned how to create HTML pages, you need to learn how to publish them online.  We'll talk about UNIX, which is the underlying operating system on most web servers. You'll learn how to use a terminal emulation program to connect to the web server and enter commands, and FTP (file transfer program) to transfer files from your computer to the web server. 
+Once you've created web pages, how do you publish them?  We'll talk about how the Internet and web servers work. Since most web servers use the UNIX operating system, you'll learn how to use a terminal emulation program to connect to a server and enter commands, and  how to use FTP (file transfer program) to transfer files from your computer to a web server. 
 
 - **Tuesday Readings**
   - [UNIX Tutorial from UC Berkeley, Sections 1-4](http://people.ischool.berkeley.edu/~kevin/unix-tutorial/toc.html)
@@ -124,7 +116,7 @@ This week you'll learn the importance of typographic choices, including font fam
 
 ## <a name="week7">Week 7</a> (Oct 11): Graphic Design Concepts
 
-We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts. Please make sure you've completed the readings before class!
+We will not have class on Tuesday of this week, because it is a reading day. On Thursday, we will talk about basic graphic design concepts, particularly in the context of the web. Please make sure you've completed the readings before class!
 
 - **Thursday Readings**
   - [Lynda.com: Introduction to Graphic Design, Section 1-3](https://www.lynda.com/Graphic-Design-tutorials/What-graphic-design/419419/534010-4.html?org=rit.edu)
@@ -165,14 +157,8 @@ This week we'll talk about the underlying concepts critical to understanding dig
 
 - **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
-## <a name="week10">Week 10 (Oct 30/Nov 1): HTML & CSS Review
-On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
+## <a name="week10">Week 10 (Oct 30/Nov 1): TBD
 
-On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
-
-- **Readings**
-  - W3 Schools: [CSS Syntax](https://www.w3schools.com/cssref/css_selectors.asp), [CSS Borders](https://www.w3schools.com/css/css_border.asp), [CSS Links](https://www.w3schools.com/css/css_link.asp), [CSS Lists](https://www.w3schools.com/css/css_list.asp), and [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
-  - MDN: [Simple CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors), [Combinators and Multiple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors), [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 
 ## <a name="week11">Week 11</a> (Nov 6/8): Animation Concepts
 
