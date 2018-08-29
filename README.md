@@ -1,16 +1,14 @@
 # IGME-110 Introduction to Interactive Media, Fall 2018: Syllabus
 
 ## Instructor and Class Details
-- Professor Eric Baker
-  - Office: 2569 Golisano Hall
-  - Email: eabigm@rit.com
-  - Office hours: Mon/Wed 1-3pm 
+- Sten McKinzie
+  - Office: (GOL) 2551
+  - Email: semigm@rit.com
+  - Office hours: Mon/Wed 11-1pm 
 - TA TBA
   - Email: 
-- Class Slack: 
+- Class Discord: 
 - Class Time/Location:
-  - Section 05: Tuesdays & Thursdays, 8:00-9:15am, 2000 Golisano Hall
-  - Section 04: Tuesdays & Thursdays, 2:00-3:15am, 1380 Orange Hall
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -19,7 +17,7 @@ This course provides an overview of media in historical, current and future cont
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
-We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
+We will be using Discord, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. We will also be using Google Docs for collaborative note-taking. We'll be discussing both of these tools in week 1. 
 
 MyCourses will *only* be used for grading, quizzes, and submission of assignments, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our class Slack. 
 
